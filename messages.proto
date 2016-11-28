@@ -1,0 +1,68 @@
+syntax = "proto2";
+
+enum Gender {
+  MALE = 0;
+  FEMALE = 1;
+  BOTH = 2;
+}
+
+message NounAnalysis {
+
+  enum Type {
+    NAME = 0;
+    GEO = 1;
+  }
+
+  optional Gender gender = 1;
+  optional bool is_plural = 2;  // falsе - единственное число, true -
+                                // множественное, !has_is_plural - неопределено
+  optional Type type = 3;
+  optional bool is_animal = 4;  // одушевленность
+}
+
+message VerbAnalysis {
+  enum Time {
+    PRESENT = 0;
+    NOTPRESENT = 1;
+    PAST = 2;
+  }
+
+  optional Time time = 1;
+}
+
+message PartAnalysis {}
+
+message PronounAnalysis {
+  enum Person {
+    FIRST = 0;
+    SECOND = 1;
+    THIRD = 2;
+  }
+
+  optional bool is_plural = 1;  // falsе - единственное число, true -
+                                // множественное, !has_is_plural - неопределено
+  optional Gender gender = 2;
+  optional Person person = 3;
+}
+
+message Token {
+
+  enum PartOfSpeech {
+    NOUN = 0;     // 	существительное
+    VERB = 1;     // 	глагол
+    PART = 2;     // 	частица
+    PRONOUN = 3;  // 	местоимение-существительное
+  }
+
+  optional string original = 1;
+  optional string lexem = 2;
+  optional PartOfSpeech part_of_speech = 3;
+  oneof analysis {
+    NounAnalysis noun_analysis = 4;
+    VerbAnalysis verb_analysis = 5;
+    PartAnalysis part_analysis = 6;
+    PronounAnalysis pronoun_analysis = 7;
+  }
+}
+
+message Tokens { repeated Token token = 1; }

@@ -1,0 +1,12091 @@
+token {
+  original: "Александр"
+  lexem: "александр"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Я"
+  lexem: "я"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    person: FIRST
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "знаю"
+  lexem: "знать"
+  part_of_speech: VERB
+}
+token {
+  original: "кому"
+  lexem: "кто"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+  }
+}
+token {
+  original: "это"
+  lexem: "это"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+  }
+}
+token {
+  original: "марта"
+  lexem: "март"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "года"
+  lexem: "год"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "родился"
+  lexem: "рождаться"
+  part_of_speech: VERB
+}
+token {
+  original: "шансонье"
+  lexem: "шансонье"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "века"
+  lexem: "век"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Пьеро"
+  lexem: "пьеро"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "вписавший"
+  lexem: "вписывать"
+  part_of_speech: VERB
+}
+token {
+  original: "судьбу"
+  lexem: "судьба"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "историю"
+  lexem: "история"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "культуры"
+  lexem: "культура"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Жизнь"
+  lexem: "жизнь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "начала"
+  lexem: "начало"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "оставляла"
+  lexem: "оставлять"
+  part_of_speech: VERB
+}
+token {
+  original: "Александра"
+  lexem: "александра"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "вопросов"
+  lexem: "вопрос"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "ответов"
+  lexem: "ответ"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "пространства"
+  lexem: "пространство"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "он"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "научился"
+  lexem: "научаться"
+  part_of_speech: VERB
+}
+token {
+  original: "заполнять"
+  lexem: "заполнять"
+  part_of_speech: VERB
+}
+token {
+  original: "его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "вымыслом"
+  lexem: "вымысел"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Создал"
+  lexem: "создавать"
+  part_of_speech: VERB
+}
+token {
+  original: "театр"
+  lexem: "театр"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "множеством"
+  lexem: "множество"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "персонажей"
+  lexem: "персонаж"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "сироток"
+  lexem: "сиротка"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: true
+  }
+}
+token {
+  original: "калек"
+  lexem: "калека"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: true
+  }
+}
+token {
+  original: "кокаинеточек"
+  lexem: "кокаинеточка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "скрипачей"
+  lexem: "скрипач"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "был"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "им"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "квартира"
+  lexem: "квартира"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "этаже"
+  lexem: "этаж"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "дома"
+  lexem: "дом"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "углу"
+  lexem: "угол"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Козицкого"
+  lexem: "козицкий"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "переулка"
+  lexem: "переулок"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Москве"
+  lexem: "москва"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "выглядит"
+  lexem: "выглядеть"
+  part_of_speech: VERB
+}
+token {
+  original: "ее"
+  lexem: "она"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: FEMALE
+    person: THIRD
+  }
+}
+token {
+  original: "хозяин"
+  lexem: "хозяин"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "вернется"
+  lexem: "вернуться"
+  part_of_speech: VERB
+}
+token {
+  original: "кабинете"
+  lexem: "кабинет"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "же"
+  lexem: "же"
+  part_of_speech: PART
+}
+token {
+  original: "шкафы"
+  lexem: "шкаф"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "же"
+  lexem: "же"
+  part_of_speech: PART
+}
+token {
+  original: "стол"
+  lexem: "стол"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "вензелем"
+  lexem: "вензель"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "бюстом"
+  lexem: "бюст"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вольтера"
+  lexem: "вольтер"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "кабинете"
+  lexem: "кабинет"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "бывает"
+  lexem: "бывать"
+  part_of_speech: VERB
+}
+token {
+  original: "лишь"
+  lexem: "лишь"
+  part_of_speech: PART
+}
+token {
+  original: "вдова"
+  lexem: "вдова"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "перечитывает"
+  lexem: "перечитывать"
+  part_of_speech: VERB
+}
+token {
+  original: "его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "письма"
+  lexem: "письмо"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "рукописи"
+  lexem: "рукопись"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Он"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "смотрит"
+  lexem: "смотреть"
+  part_of_speech: VERB
+}
+token {
+  original: "нее"
+  lexem: "она"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: FEMALE
+    person: THIRD
+  }
+}
+token {
+  original: "фотографий"
+  lexem: "фотография"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "развешанных"
+  lexem: "развешивать"
+  part_of_speech: VERB
+}
+token {
+  original: "стенах"
+  lexem: "стена"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "расставленных"
+  lexem: "расставлять"
+  part_of_speech: VERB
+}
+token {
+  original: "столе"
+  lexem: "стол"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "возвращает"
+  lexem: "возвращать"
+  part_of_speech: VERB
+}
+token {
+  original: "лет"
+  lexem: "год"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "счастья"
+  lexem: "счастие"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "квартире"
+  lexem: "квартира"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "витает"
+  lexem: "витать"
+  part_of_speech: VERB
+}
+token {
+  original: "запах"
+  lexem: "запах"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "табака"
+  lexem: "табак"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "лаванды"
+  lexem: "лаванда"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "дом"
+  lexem: "дом"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "гостей"
+  lexem: "гость"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "застолья"
+  lexem: "застолье"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "длятся"
+  lexem: "длиться"
+  part_of_speech: VERB
+}
+token {
+  original: "это"
+  lexem: "это"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+  }
+}
+token {
+  original: "будто"
+  lexem: "будто"
+  part_of_speech: PART
+}
+token {
+  original: "Нет"
+  lexem: "нет"
+  part_of_speech: PART
+}
+token {
+  original: "время"
+  lexem: "время"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "остановилось"
+  lexem: "останавливаться"
+  part_of_speech: VERB
+}
+token {
+  original: "оно"
+  lexem: "оно"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    person: THIRD
+  }
+}
+token {
+  original: "сомкнуло"
+  lexem: "смыкать"
+  part_of_speech: VERB
+}
+token {
+  original: "объятия"
+  lexem: "объятие"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "перечитывать"
+  lexem: "перечитывать"
+  part_of_speech: VERB
+}
+token {
+  original: "судьбу"
+  lexem: "судьба"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Считается"
+  lexem: "считаться"
+  part_of_speech: VERB
+}
+token {
+  original: "голос"
+  lexem: "голос"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Георгий"
+  lexem: "георгий"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Иванов"
+  lexem: "иванов"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "обрёл"
+  lexem: "обретать"
+  part_of_speech: VERB
+}
+token {
+  original: "эмиграции"
+  lexem: "эмиграция"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "эмиграции"
+  lexem: "эмиграция"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Мол"
+  lexem: "мол"
+  part_of_speech: PART
+}
+token {
+  original: "утрата"
+  lexem: "утрата"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "родины"
+  lexem: "родина"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "стала"
+  lexem: "становиться"
+  part_of_speech: VERB
+}
+token {
+  original: "него"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "тем"
+  lexem: "то"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+  }
+}
+token {
+  original: "горем"
+  lexem: "горе"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "хватало"
+  lexem: "хватать"
+  part_of_speech: VERB
+}
+token {
+  original: "форме"
+  lexem: "форма"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "стихам"
+  lexem: "стих"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "они"
+  lexem: "они"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: true
+  }
+}
+token {
+  original: "наполнились"
+  lexem: "наполняться"
+  part_of_speech: VERB
+}
+token {
+  original: "содержанием"
+  lexem: "содержание"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "деле"
+  lexem: "дело"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "это"
+  lexem: "это"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "точка"
+  lexem: "точка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "сборки"
+  lexem: "сборка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Георгия"
+  lexem: "георгий"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Иванова"
+  lexem: "иванов"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "была"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "смещена"
+  lexem: "смещать"
+  part_of_speech: VERB
+}
+token {
+  original: "Петербурге"
+  lexem: "петербург"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "Георгий"
+  lexem: "георгий"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Иванов"
+  lexem: "иванов"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "грани"
+  lexem: "грань"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "музыки"
+  lexem: "музыка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "сна"
+  lexem: "сон"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "воспоминание"
+  lexem: "воспоминание"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "смерти"
+  lexem: "смерть"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "матери"
+  lexem: "мать"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "Саша"
+  lexem: "саша"
+  part_of_speech: NOUN
+  noun_analysis {
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "сидит"
+  lexem: "сидеть"
+  part_of_speech: VERB
+}
+token {
+  original: "горшке"
+  lexem: "горшок"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "выковыривает"
+  lexem: "выковыривать"
+  part_of_speech: VERB
+}
+token {
+  original: "глаза"
+  lexem: "глаз"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "медвежонка"
+  lexem: "медвежонок"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Горничная"
+  lexem: "горничная"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "Лизка"
+  lexem: "лизка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "отрывает"
+  lexem: "отрывать"
+  part_of_speech: VERB
+}
+token {
+  original: "мальчика"
+  lexem: "мальчик"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "занятия"
+  lexem: "занятие"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Вставай"
+  lexem: "вставать"
+  part_of_speech: VERB
+}
+token {
+  original: "мама"
+  lexem: "мама"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "умерла"
+  lexem: "умирать"
+  part_of_speech: VERB
+}
+token {
+  original: "Мать"
+  lexem: "мать"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "лежит"
+  lexem: "лежать"
+  part_of_speech: VERB
+}
+token {
+  original: "гробу"
+  lexem: "гроб"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "столе"
+  lexem: "стол"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "тело"
+  lexem: "тело"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "ее"
+  lexem: "она"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: FEMALE
+    person: THIRD
+  }
+}
+token {
+  original: "скрывают"
+  lexem: "скрывать"
+  part_of_speech: VERB
+}
+token {
+  original: "цветы"
+  lexem: "цветок"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "изголовья"
+  lexem: "изголовье"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "стоят"
+  lexem: "стоять"
+  part_of_speech: VERB
+}
+token {
+  original: "подсвечники"
+  lexem: "подсвечник"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "табуретка"
+  lexem: "табуретка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "руке"
+  lexem: "рука"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Саша"
+  lexem: "саша"
+  part_of_speech: NOUN
+  noun_analysis {
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "сжимает"
+  lexem: "сжимать"
+  part_of_speech: VERB
+}
+token {
+  original: "шоколадку"
+  lexem: "шоколадка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "он"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "бросается"
+  lexem: "бросаться"
+  part_of_speech: VERB
+}
+token {
+  original: "матери"
+  lexem: "мать"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "угостить"
+  lexem: "угощать"
+  part_of_speech: VERB
+}
+token {
+  original: "мать"
+  lexem: "мать"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "раскрывает"
+  lexem: "раскрывать"
+  part_of_speech: VERB
+}
+token {
+  original: "рта"
+  lexem: "рот"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "года"
+  lexem: "год"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "чахотки"
+  lexem: "чахотка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "умер"
+  lexem: "умирать"
+  part_of_speech: VERB
+}
+token {
+  original: "отец"
+  lexem: "отец"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "весной"
+  lexem: "весна"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "нашли"
+  lexem: "находить"
+  part_of_speech: VERB
+}
+token {
+  original: "чувств"
+  lexem: "чувство"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "могиле"
+  lexem: "могила"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "супруги"
+  lexem: "супруга"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "Оправиться"
+  lexem: "оправляться"
+  part_of_speech: VERB
+}
+token {
+  original: "болезни"
+  lexem: "болезнь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "он"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "смог"
+  lexem: "смочь"
+  part_of_speech: VERB
+}
+token {
+  original: "кровь"
+  lexem: "кровь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "хлынула"
+  lexem: "хлынуть"
+  part_of_speech: VERB
+}
+token {
+  original: "горлом"
+  lexem: "горло"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "ним"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "была"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "только"
+  lexem: "только"
+  part_of_speech: PART
+}
+token {
+  original: "дочь"
+  lexem: "дочь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "Надя"
+  lexem: "надя"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "знавшая"
+  lexem: "знать"
+  part_of_speech: VERB
+}
+token {
+  original: "помочь"
+  lexem: "помогать"
+  part_of_speech: VERB
+}
+token {
+  original: "отец"
+  lexem: "отец"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "упал"
+  lexem: "упасть"
+  part_of_speech: VERB
+}
+token {
+  original: "подушку"
+  lexem: "подушка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "захлебнулся"
+  lexem: "захлебываться"
+  part_of_speech: VERB
+}
+token {
+  original: "кровью"
+  lexem: "кровь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "сестра"
+  lexem: "сестра"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "матери"
+  lexem: "мать"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "забрала"
+  lexem: "забрало"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Надю"
+  lexem: "надя"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "себе"
+  lexem: "себя"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+  }
+}
+token {
+  original: "Ковно"
+  lexem: "ковно"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Саша"
+  lexem: "саша"
+  part_of_speech: NOUN
+  noun_analysis {
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "остался"
+  lexem: "оставаться"
+  part_of_speech: VERB
+}
+token {
+  original: "жить"
+  lexem: "жить"
+  part_of_speech: VERB
+}
+token {
+  original: "Киеве"
+  lexem: "киев"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "сестрой"
+  lexem: "сестра"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "матери"
+  lexem: "мать"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "уверила"
+  lexem: "уверять"
+  part_of_speech: VERB
+}
+token {
+  original: "мальчика"
+  lexem: "мальчик"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "том"
+  lexem: "то"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+  }
+}
+token {
+  original: "его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "сестра"
+  lexem: "сестра"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "умерла"
+  lexem: "умирать"
+  part_of_speech: VERB
+}
+token {
+  original: "То"
+  lexem: "то"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+  }
+}
+token {
+  original: "же"
+  lexem: "же"
+  part_of_speech: PART
+}
+token {
+  original: "было"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "сказано"
+  lexem: "сказать"
+  part_of_speech: VERB
+}
+token {
+  original: "Наде"
+  lexem: "надя"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "брате"
+  lexem: "брат"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "годы"
+  lexem: "год"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Александр"
+  lexem: "александр"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "обнаружит"
+  lexem: "обнаруживать"
+  part_of_speech: VERB
+}
+token {
+  original: "упоминание"
+  lexem: "упоминание"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Н"
+  lexem: "н"
+  part_of_speech: NOUN
+  noun_analysis {
+  }
+}
+token {
+  original: "Н"
+  lexem: "н"
+  part_of_speech: NOUN
+  noun_analysis {
+  }
+}
+token {
+  original: "Вертинской"
+  lexem: "вертинская"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "журнале"
+  lexem: "журнал"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Театр"
+  lexem: "театр"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "искусство"
+  lexem: "искусство"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "напишет"
+  lexem: "написать"
+  part_of_speech: VERB
+}
+token {
+  original: "ей"
+  lexem: "она"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: FEMALE
+    person: THIRD
+  }
+}
+token {
+  original: "выяснится"
+  lexem: "выясняться"
+  part_of_speech: VERB
+}
+token {
+  original: "это"
+  lexem: "это"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+  }
+}
+token {
+  original: "его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "сестра"
+  lexem: "сестра"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "время"
+  lexem: "время"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинскому"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "сообщат"
+  lexem: "сообщать"
+  part_of_speech: VERB
+}
+token {
+  original: "Надя"
+  lexem: "надя"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "покончила"
+  lexem: "покончить"
+  part_of_speech: VERB
+}
+token {
+  original: "собой"
+  lexem: "себя"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+  }
+}
+token {
+  original: "Только"
+  lexem: "только"
+  part_of_speech: PART
+}
+token {
+  original: "смерти"
+  lexem: "смерть"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "вдова"
+  lexem: "вдова"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "выяснит"
+  lexem: "выяснять"
+  part_of_speech: VERB
+}
+token {
+  original: "Надежда"
+  lexem: "надежда"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Николаевна"
+  lexem: "николаевна"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "живет"
+  lexem: "жить"
+  part_of_speech: VERB
+}
+token {
+  original: "Ленинграде"
+  lexem: "ленинград"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "Смерть"
+  lexem: "смерть"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "вписалась"
+  lexem: "вписываться"
+  part_of_speech: VERB
+}
+token {
+  original: "его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "жизнь"
+  lexem: "жизнь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Смерть"
+  lexem: "смерть"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "была"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "тем"
+  lexem: "то"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+  }
+}
+token {
+  original: "миром"
+  lexem: "мир"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "кончались"
+  lexem: "кончаться"
+  part_of_speech: VERB
+}
+token {
+  original: "тщета"
+  lexem: "тщета"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "мальчика"
+  lexem: "мальчик"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Мая"
+  lexem: "май"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "тревоги"
+  lexem: "тревога"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Безноженьки"
+  lexem: "безноженька"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "наступал"
+  lexem: "наступать"
+  part_of_speech: VERB
+}
+token {
+  original: "покой"
+  lexem: "покой"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Александр"
+  lexem: "александр"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "появился"
+  lexem: "появляться"
+  part_of_speech: VERB
+}
+token {
+  original: "свет"
+  lexem: "свет"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Родственники"
+  lexem: "родственник"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "отца"
+  lexem: "отец"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "матери"
+  lexem: "мать"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "одобряли"
+  lexem: "одобрять"
+  part_of_speech: VERB
+}
+token {
+  original: "союз"
+  lexem: "союз"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Николая"
+  lexem: "николай"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Евгенией"
+  lexem: "евгения"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Скалацкой"
+  lexem: "скалацкая"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "даже"
+  lexem: "даже"
+  part_of_speech: PART
+}
+token {
+  original: "родились"
+  lexem: "рождаться"
+  part_of_speech: VERB
+}
+token {
+  original: "Надя"
+  lexem: "надя"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Саша"
+  lexem: "саша"
+  part_of_speech: NOUN
+  noun_analysis {
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Евгения"
+  lexem: "евгений"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Степановна"
+  lexem: "степановна"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "происходила"
+  lexem: "происходить"
+  part_of_speech: VERB
+}
+token {
+  original: "рода"
+  lexem: "род"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Николай"
+  lexem: "николай"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Петрович"
+  lexem: "петрович"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "был"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "присяжным"
+  lexem: "присяжный"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "поверенным"
+  lexem: "поверенный"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "жена"
+  lexem: "жена"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "отца"
+  lexem: "отец"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "настоянию"
+  lexem: "настояние"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "родственников"
+  lexem: "родственник"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Николая"
+  lexem: "николай"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "давала"
+  lexem: "давать"
+  part_of_speech: VERB
+}
+token {
+  original: "ему"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "развода"
+  lexem: "развод"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "пришлось"
+  lexem: "приходиться"
+  part_of_speech: VERB
+}
+token {
+  original: "усыновить"
+  lexem: "усыновлять"
+  part_of_speech: VERB
+}
+token {
+  original: "детей"
+  lexem: "ребенок"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Жизнь"
+  lexem: "жизнь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "начала"
+  lexem: "начало"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "оставляла"
+  lexem: "оставлять"
+  part_of_speech: VERB
+}
+token {
+  original: "Александра"
+  lexem: "александра"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "вопросов"
+  lexem: "вопрос"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "ответов"
+  lexem: "ответ"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "пространства"
+  lexem: "пространство"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "он"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "научился"
+  lexem: "научаться"
+  part_of_speech: VERB
+}
+token {
+  original: "заполнять"
+  lexem: "заполнять"
+  part_of_speech: VERB
+}
+token {
+  original: "его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "вымыслом"
+  lexem: "вымысел"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Создал"
+  lexem: "создавать"
+  part_of_speech: VERB
+}
+token {
+  original: "театр"
+  lexem: "театр"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "множеством"
+  lexem: "множество"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "персонажей"
+  lexem: "персонаж"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "сироток"
+  lexem: "сиротка"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: true
+  }
+}
+token {
+  original: "калек"
+  lexem: "калека"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: true
+  }
+}
+token {
+  original: "кокаинеточек"
+  lexem: "кокаинеточка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "скрипачей"
+  lexem: "скрипач"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "был"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "им"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "Театр"
+  lexem: "театр"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "стал"
+  lexem: "становиться"
+  part_of_speech: VERB
+}
+token {
+  original: "страстью"
+  lexem: "страсть"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "лет"
+  lexem: "год"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Он"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "способами"
+  lexem: "способ"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "проникал"
+  lexem: "проникать"
+  part_of_speech: VERB
+}
+token {
+  original: "спектакли"
+  lexem: "спектакль"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "оперы"
+  lexem: "опера"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "концерты"
+  lexem: "концерт"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "выступал"
+  lexem: "выступать"
+  part_of_speech: VERB
+}
+token {
+  original: "постановках"
+  lexem: "постановка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "зале"
+  lexem: "зал"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Подоле"
+  lexem: "подол"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "подвизался"
+  lexem: "подвизаться"
+  part_of_speech: VERB
+}
+token {
+  original: "статистом"
+  lexem: "статист"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "театре"
+  lexem: "театр"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "разумеется"
+  lexem: "разуметься"
+  part_of_speech: VERB
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "умереть"
+  lexem: "умирать"
+  part_of_speech: VERB
+}
+token {
+  original: "голоду"
+  lexem: "голод"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "брался"
+  lexem: "браться"
+  part_of_speech: VERB
+}
+token {
+  original: "работу"
+  lexem: "работа"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "пописывал"
+  lexem: "пописывать"
+  part_of_speech: VERB
+}
+token {
+  original: "рецензии"
+  lexem: "рецензия"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "выступления"
+  lexem: "выступление"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "гастролеров"
+  lexem: "гастролер"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "служил"
+  lexem: "служить"
+  part_of_speech: VERB
+}
+token {
+  original: "корректором"
+  lexem: "корректор"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "типографии"
+  lexem: "типография"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "нанимался"
+  lexem: "наниматься"
+  part_of_speech: VERB
+}
+token {
+  original: "помощником"
+  lexem: "помощник"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "бухгалтера"
+  lexem: "бухгалтер"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "гостиницу"
+  lexem: "гостиница"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "продавал"
+  lexem: "продавать"
+  part_of_speech: VERB
+}
+token {
+  original: "открытки"
+  lexem: "открытка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "грузил"
+  lexem: "грузить"
+  part_of_speech: VERB
+}
+token {
+  original: "арбузы"
+  lexem: "арбуз"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "барках"
+  lexem: "барка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "даже"
+  lexem: "даже"
+  part_of_speech: PART
+}
+token {
+  original: "подворовывал"
+  lexem: "подворовывать"
+  part_of_speech: VERB
+}
+token {
+  original: "сестры"
+  lexem: "сестра"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "безделушки"
+  lexem: "безделушка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "сбыть"
+  lexem: "сбывать"
+  part_of_speech: VERB
+}
+token {
+  original: "их"
+  lexem: "они"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: true
+  }
+}
+token {
+  original: "толкучке"
+  lexem: "толкучка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "армией"
+  lexem: "армия"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Колчака"
+  lexem: "колчак"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "бежала"
+  lexem: "бежать"
+  part_of_speech: VERB
+}
+token {
+  original: "Владивостока"
+  lexem: "владивосток"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "семья"
+  lexem: "семья"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "цыган"
+  lexem: "цыган"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Димитриевичей"
+  lexem: "димитриевич"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "пароходах"
+  lexem: "пароход"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "генерала"
+  lexem: "генерал"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Врангеля"
+  lexem: "врангель"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "спасались"
+  lexem: "спасаться"
+  part_of_speech: VERB
+}
+token {
+  original: "Александр"
+  lexem: "александр"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Надежда"
+  lexem: "надежда"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Плевицкая"
+  lexem: "плевицкая"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "уходили"
+  lexem: "уходить"
+  part_of_speech: VERB
+}
+token {
+  original: "угодно"
+  lexem: "угодно"
+  part_of_speech: PART
+}
+token {
+  original: "лишь"
+  lexem: "лишь"
+  part_of_speech: PART
+}
+token {
+  original: "бы"
+  lexem: "бы"
+  part_of_speech: PART
+}
+token {
+  original: "Советов"
+  lexem: "совет"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "звёзды"
+  lexem: "звезда"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "звёздочки"
+  lexem: "звездочка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "эмиграции"
+  lexem: "эмиграция"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "оказалось"
+  lexem: "оказываться"
+  part_of_speech: VERB
+}
+token {
+  original: "личностей"
+  lexem: "личность"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "работавших"
+  lexem: "работать"
+  part_of_speech: VERB
+}
+token {
+  original: "интересующем"
+  lexem: "интересовать"
+  part_of_speech: VERB
+}
+token {
+  original: "нас"
+  lexem: "мы"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: true
+    person: FIRST
+  }
+}
+token {
+  original: "жанре"
+  lexem: "жанр"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "песни"
+  lexem: "песня"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "даже"
+  lexem: "даже"
+  part_of_speech: PART
+}
+token {
+  original: "их"
+  lexem: "они"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: true
+  }
+}
+token {
+  original: "имена"
+  lexem: "имя"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "блекнут"
+  lexem: "блекнуть"
+  part_of_speech: VERB
+}
+token {
+  original: "шапкой"
+  lexem: "шапка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Монблана"
+  lexem: "монблан"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "лице"
+  lexem: "лицо"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Фёдора"
+  lexem: "федор"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Ивановича"
+  lexem: "иванович"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Шаляпина"
+  lexem: "шаляпин"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "бог"
+  lexem: "бог"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "музыки"
+  lexem: "музыка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "годах"
+  lexem: "год"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "журналы"
+  lexem: "журнал"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "неделя"
+  lexem: "неделя"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Лукоморье"
+  lexem: "лукоморье"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "опубликовали"
+  lexem: "опубликовывать"
+  part_of_speech: VERB
+}
+token {
+  original: "рассказы"
+  lexem: "рассказ"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "бабочки"
+  lexem: "бабочка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "невеста"
+  lexem: "невеста"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "интонацией"
+  lexem: "интонация"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "бабочки"
+  lexem: "бабочка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "мальчике"
+  lexem: "мальчик"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "сироте"
+  lexem: "сирота"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: true
+  }
+}
+token {
+  original: "погубившем"
+  lexem: "погубить"
+  part_of_speech: VERB
+}
+token {
+  original: "бабочек"
+  lexem: "бабочка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "вышитых"
+  lexem: "вышивать"
+  part_of_speech: VERB
+}
+token {
+  original: "платье"
+  lexem: "платье"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Мальчик"
+  lexem: "мальчик"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "наказан"
+  lexem: "наказывать"
+  part_of_speech: VERB
+}
+token {
+  original: "теткой"
+  lexem: "тетка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "бабочки"
+  lexem: "бабочка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "являются"
+  lexem: "являться"
+  part_of_speech: VERB
+}
+token {
+  original: "ему"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "сне"
+  lexem: "сон"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "отомстить"
+  lexem: "отомщать"
+  part_of_speech: VERB
+}
+token {
+  original: "сестер"
+  lexem: "сестра"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "невеста"
+  lexem: "невеста"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "читающей"
+  lexem: "читать"
+  part_of_speech: VERB
+}
+token {
+  original: "стихи"
+  lexem: "стих"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "эстраде"
+  lexem: "эстрада"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "опустевшего"
+  lexem: "опустеть"
+  part_of_speech: VERB
+}
+token {
+  original: "парка"
+  lexem: "парк"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "малютка"
+  lexem: "малютка"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: true
+  }
+}
+token {
+  original: "невеста"
+  lexem: "невеста"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "рассмотрении"
+  lexem: "рассмотрение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "оказывается"
+  lexem: "оказываться"
+  part_of_speech: VERB
+}
+token {
+  original: "существом"
+  lexem: "существо"
+  part_of_speech: NOUN
+  noun_analysis {
+  }
+}
+token {
+  original: "цвета"
+  lexem: "цвет"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "лицом"
+  lexem: "лицо"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "припухшими"
+  lexem: "припухать"
+  part_of_speech: VERB
+}
+token {
+  original: "губами"
+  lexem: "губа"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "бровей"
+  lexem: "бровь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "ресниц"
+  lexem: "ресница"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "вдавленными"
+  lexem: "вдавливать"
+  part_of_speech: VERB
+}
+token {
+  original: "череп"
+  lexem: "череп"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "глазами"
+  lexem: "глаз"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "посиделок"
+  lexem: "посиделки"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "работы"
+  lexem: "работа"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "время"
+  lexem: "время"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "коротал"
+  lexem: "коротать"
+  part_of_speech: VERB
+}
+token {
+  original: "молодежью"
+  lexem: "молодежь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "кабачке"
+  lexem: "кабачок"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "закусывая"
+  lexem: "закусывать"
+  part_of_speech: VERB
+}
+token {
+  original: "вино"
+  lexem: "вино"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "сыром"
+  lexem: "сыр"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "приобретенном"
+  lexem: "приобретать"
+  part_of_speech: VERB
+}
+token {
+  original: "толкучке"
+  lexem: "толкучка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "подержанном"
+  lexem: "подержать"
+  part_of_speech: VERB
+}
+token {
+  original: "фраке"
+  lexem: "фрак"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "цветком"
+  lexem: "цветок"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "петлице"
+  lexem: "петлица"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "он"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "сыпал"
+  lexem: "сыпать"
+  part_of_speech: VERB
+}
+token {
+  original: "продуманными"
+  lexem: "продумывать"
+  part_of_speech: VERB
+}
+token {
+  original: "афоризмами"
+  lexem: "афоризм"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "производил"
+  lexem: "производить"
+  part_of_speech: VERB
+}
+token {
+  original: "окружающих"
+  lexem: "окружающие"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: true
+  }
+}
+token {
+  original: "впечатление"
+  lexem: "впечатление"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "оригинала"
+  lexem: "оригинал"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "понимал"
+  lexem: "понимать"
+  part_of_speech: VERB
+}
+token {
+  original: "продолжаться"
+  lexem: "продолжаться"
+  part_of_speech: VERB
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "может"
+  lexem: "мочь"
+  part_of_speech: VERB
+}
+token {
+  original: "Скопив"
+  lexem: "скопить"
+  part_of_speech: VERB
+}
+token {
+  original: "рублей"
+  lexem: "рубль"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "подыскав"
+  lexem: "подыскивать"
+  part_of_speech: VERB
+}
+token {
+  original: "компаньона"
+  lexem: "компаньон"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "гардеробчиком"
+  lexem: "гардеробчик"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "костюмов"
+  lexem: "костюм"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "театрах"
+  lexem: "театр"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "статистов"
+  lexem: "статист"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "брали"
+  lexem: "брать"
+  part_of_speech: VERB
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "подался"
+  lexem: "подаваться"
+  part_of_speech: VERB
+}
+token {
+  original: "Москву"
+  lexem: "москва"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "он"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "играл"
+  lexem: "играть"
+  part_of_speech: VERB
+}
+token {
+  original: "роли"
+  lexem: "роль"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "студиях"
+  lexem: "студия"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "поступил"
+  lexem: "поступать"
+  part_of_speech: VERB
+}
+token {
+  original: "театр"
+  lexem: "театр"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "миниатюр"
+  lexem: "миниатюра"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Марьи"
+  lexem: "марья"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Арцыбушевой"
+  lexem: "арцыбушевая"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "служил"
+  lexem: "служить"
+  part_of_speech: VERB
+}
+token {
+  original: "котлеты"
+  lexem: "котлета"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "борщ"
+  lexem: "борщ"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "соглашался"
+  lexem: "соглашаться"
+  part_of_speech: VERB
+}
+token {
+  original: "роли"
+  lexem: "роль"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "кино"
+  lexem: "кино"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "показывался"
+  lexem: "показываться"
+  part_of_speech: VERB
+}
+token {
+  original: "МХАТе"
+  lexem: "мхат"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "грассирующего"
+  lexem: "грассировать"
+  part_of_speech: VERB
+}
+token {
+  original: "р"
+  lexem: "р"
+  part_of_speech: NOUN
+  noun_analysis {
+  }
+}
+token {
+  original: "был"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "отвергнут"
+  lexem: "отвергать"
+  part_of_speech: VERB
+}
+token {
+  original: "Станиславским"
+  lexem: "станиславский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "бурлило"
+  lexem: "бурлить"
+  part_of_speech: VERB
+}
+token {
+  original: "клокотало"
+  lexem: "клокотать"
+  part_of_speech: VERB
+}
+token {
+  original: "требовало"
+  lexem: "требовать"
+  part_of_speech: VERB
+}
+token {
+  original: "выхода"
+  lexem: "выход"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "находило"
+  lexem: "находить"
+  part_of_speech: VERB
+}
+token {
+  original: "его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "было"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "никому"
+  lexem: "никто"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+  }
+}
+token {
+  original: "талантов"
+  lexem: "талант"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "бездарностей"
+  lexem: "бездарность"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Столицы"
+  lexem: "столица"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "захлестнула"
+  lexem: "захлестнуть"
+  part_of_speech: VERB
+}
+token {
+  original: "эпидемия"
+  lexem: "эпидемия"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "увлечения"
+  lexem: "увлечение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "кокаином"
+  lexem: "кокаин"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "покупали"
+  lexem: "покупать"
+  part_of_speech: VERB
+}
+token {
+  original: "аптеках"
+  lexem: "аптека"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "рук"
+  lexem: "рука"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "носили"
+  lexem: "носить"
+  part_of_speech: VERB
+}
+token {
+  original: "пудреницах"
+  lexem: "пудреница"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "портсигарах"
+  lexem: "портсигар"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "одалживали"
+  lexem: "одалживать"
+  part_of_speech: VERB
+}
+token {
+  original: "одалживались"
+  lexem: "одалживаться"
+  part_of_speech: VERB
+}
+token {
+  original: "выглянув"
+  lexem: "выглядывать"
+  part_of_speech: VERB
+}
+token {
+  original: "выходившего"
+  lexem: "выходить"
+  part_of_speech: VERB
+}
+token {
+  original: "крышу"
+  lexem: "крыша"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "окна"
+  lexem: "окно"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "мансарды"
+  lexem: "мансарда"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "снимал"
+  lexem: "снимать"
+  part_of_speech: VERB
+}
+token {
+  original: "он"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "обнаружил"
+  lexem: "обнаруживать"
+  part_of_speech: VERB
+}
+token {
+  original: "скат"
+  lexem: "скат"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "усеян"
+  lexem: "усеивать"
+  part_of_speech: VERB
+}
+token {
+  original: "бутылочками"
+  lexem: "бутылочка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "кокаина"
+  lexem: "кокаин"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "отправился"
+  lexem: "отправляться"
+  part_of_speech: VERB
+}
+token {
+  original: "психиатру"
+  lexem: "психиатр"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "профессору"
+  lexem: "профессор"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Баженову"
+  lexem: "баженов"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "подойдя"
+  lexem: "подходить"
+  part_of_speech: VERB
+}
+token {
+  original: "остановке"
+  lexem: "остановка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "увидел"
+  lexem: "увидеть"
+  part_of_speech: VERB
+}
+token {
+  original: "Пушкин"
+  lexem: "пушкин"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "сошел"
+  lexem: "сходить"
+  part_of_speech: VERB
+}
+token {
+  original: "пьедестала"
+  lexem: "пьедестал"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "оставив"
+  lexem: "оставлять"
+  part_of_speech: VERB
+}
+token {
+  original: "нем"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "след"
+  lexem: "след"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Александр"
+  lexem: "александр"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Сергеевич"
+  lexem: "сергеевич"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "сел"
+  lexem: "садиться"
+  part_of_speech: VERB
+}
+token {
+  original: "Вертинским"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "трамвай"
+  lexem: "трамвай"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "достал"
+  lexem: "доставать"
+  part_of_speech: VERB
+}
+token {
+  original: "пятак"
+  lexem: "пятак"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "оплаты"
+  lexem: "оплата"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Справиться"
+  lexem: "справляться"
+  part_of_speech: VERB
+}
+token {
+  original: "пристрастием"
+  lexem: "пристрастие"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "кокаину"
+  lexem: "кокаин"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинскому"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "помогла"
+  lexem: "помогать"
+  part_of_speech: VERB
+}
+token {
+  original: "война"
+  lexem: "война"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "именем"
+  lexem: "имя"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Брат"
+  lexem: "брат"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Пьеро"
+  lexem: "пьеро"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "он"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "записался"
+  lexem: "записываться"
+  part_of_speech: VERB
+}
+token {
+  original: "поезд"
+  lexem: "поезд"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "курсировавший"
+  lexem: "курсировать"
+  part_of_speech: VERB
+}
+token {
+  original: "Москвы"
+  lexem: "москва"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "фронту"
+  lexem: "фронт"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "года"
+  lexem: "год"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "перевязывал"
+  lexem: "перевязывать"
+  part_of_speech: VERB
+}
+token {
+  original: "раненых"
+  lexem: "раненый"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "читал"
+  lexem: "читать"
+  part_of_speech: VERB
+}
+token {
+  original: "им"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "письма"
+  lexem: "письмо"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "родных"
+  lexem: "родные"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: true
+  }
+}
+token {
+  original: "пел"
+  lexem: "петь"
+  part_of_speech: VERB
+}
+token {
+  original: "даже"
+  lexem: "даже"
+  part_of_speech: PART
+}
+token {
+  original: "его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "уверению"
+  lexem: "уверение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "оперировал"
+  lexem: "оперировать"
+  part_of_speech: VERB
+}
+token {
+  original: "году"
+  lexem: "год"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "вернулся"
+  lexem: "вернуться"
+  part_of_speech: VERB
+}
+token {
+  original: "театр"
+  lexem: "театр"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "миниатюр"
+  lexem: "миниатюра"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Арцыбушевой"
+  lexem: "арцыбушевая"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "номером"
+  lexem: "номер"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Ариетки"
+  lexem: "ариетка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Пьеро"
+  lexem: "пьеро"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "фоне"
+  lexem: "фон"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "занавеса"
+  lexem: "занавес"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "луче"
+  lexem: "луч"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "прожектора"
+  lexem: "прожектор"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "сцене"
+  lexem: "сцена"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "появлялся"
+  lexem: "появляться"
+  part_of_speech: VERB
+}
+token {
+  original: "человек"
+  lexem: "человек"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "покрытом"
+  lexem: "покрывать"
+  part_of_speech: VERB
+}
+token {
+  original: "белилами"
+  lexem: "белила"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "лице"
+  lexem: "лицо"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "выделялись"
+  lexem: "выделяться"
+  part_of_speech: VERB
+}
+token {
+  original: "рот"
+  lexem: "рот"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "обведенные"
+  lexem: "обвести"
+  part_of_speech: VERB
+}
+token {
+  original: "тушью"
+  lexem: "тушь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "глаза"
+  lexem: "глаз"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "нарисованные"
+  lexem: "нарисовать"
+  part_of_speech: VERB
+}
+token {
+  original: "брови"
+  lexem: "бровь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "вступления"
+  lexem: "вступление"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "рояля"
+  lexem: "рояль"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "юноша"
+  lexem: "юноша"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "взмахивал"
+  lexem: "взмахивать"
+  part_of_speech: VERB
+}
+token {
+  original: "руками"
+  lexem: "рука"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "начинал"
+  lexem: "начинать"
+  part_of_speech: VERB
+}
+token {
+  original: "Я"
+  lexem: "я"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    person: FIRST
+  }
+}
+token {
+  original: "люблю"
+  lexem: "любить"
+  part_of_speech: VERB
+}
+token {
+  original: "Вас"
+  lexem: "вы"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: true
+    person: SECOND
+  }
+}
+token {
+  original: "сегоглазочка"
+  lexem: "сегоглазочек"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "ошибка"
+  lexem: "ошибка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вы"
+  lexem: "вы"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: true
+    person: SECOND
+  }
+}
+token {
+  original: "вечегняя"
+  lexem: "вечегняй"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "сказочка"
+  lexem: "сказочка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вы"
+  lexem: "вы"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: true
+    person: SECOND
+  }
+}
+token {
+  original: "цветок"
+  lexem: "цветок"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "кагтины"
+  lexem: "кагтина"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Гойя"
+  lexem: "гойя"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "ямщиков"
+  lexem: "ямщик"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "соловьев"
+  lexem: "соловей"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "аллей"
+  lexem: "аллея"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "ночей"
+  lexem: "ночь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "дышащих"
+  lexem: "дышать"
+  part_of_speech: VERB
+}
+token {
+  original: "сладострастьем"
+  lexem: "сладострастие"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "стороны"
+  lexem: "сторона"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "фоне"
+  lexem: "фон"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "бравад"
+  lexem: "бравада"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "футуристов"
+  lexem: "футурист"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "поэз"
+  lexem: "поэз"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Игоря"
+  lexem: "игорь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Северянина"
+  lexem: "северянин"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "шансоньетки"
+  lexem: "шансоньетка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Изы"
+  lexem: "иза"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Кремер"
+  lexem: "кремирать"
+  part_of_speech: VERB
+}
+token {
+  original: "ее"
+  lexem: "она"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: FEMALE
+    person: THIRD
+  }
+}
+token {
+  original: "занзибарами"
+  lexem: "занзибар"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "кларами"
+  lexem: "клара"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Пьеро"
+  lexem: "пьеро"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "стал"
+  lexem: "становиться"
+  part_of_speech: VERB
+}
+token {
+  original: "сенсацией"
+  lexem: "сенсация"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Ему"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "удалось"
+  lexem: "удаваться"
+  part_of_speech: VERB
+}
+token {
+  original: "вписать"
+  lexem: "вписывать"
+  part_of_speech: VERB
+}
+token {
+  original: "экзотику"
+  lexem: "экзотика"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "креольчиков"
+  lexem: "креольчик"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "принцев"
+  lexem: "принц"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "островов"
+  lexem: "остров"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Ли"
+  lexem: "ли"
+  part_of_speech: PART
+}
+token {
+  original: "негров"
+  lexem: "негр"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "ландшафт"
+  lexem: "ландшафт"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "души"
+  lexem: "душа"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "превратить"
+  lexem: "превращать"
+  part_of_speech: VERB
+}
+token {
+  original: "игру"
+  lexem: "игра"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "символами"
+  lexem: "символ"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "откровение"
+  lexem: "откровение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "печали"
+  lexem: "печаль"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "певец"
+  lexem: "певец"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "данных"
+  lexem: "данные"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "композитор"
+  lexem: "композитор"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "знавший"
+  lexem: "знать"
+  part_of_speech: VERB
+}
+token {
+  original: "грамоты"
+  lexem: "грамота"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "актер"
+  lexem: "актер"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "дефектом"
+  lexem: "дефект"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "дикции"
+  lexem: "дикция"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "стал"
+  lexem: "становиться"
+  part_of_speech: VERB
+}
+token {
+  original: "кумиром"
+  lexem: "кумир"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Издательство"
+  lexem: "издательство"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "новости"
+  lexem: "новость"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Б"
+  lexem: "б"
+  part_of_speech: PART
+}
+token {
+  original: "Андржеевского"
+  lexem: "андржеевский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "тиражами"
+  lexem: "тираж"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "выпускало"
+  lexem: "выпускать"
+  part_of_speech: VERB
+}
+token {
+  original: "Песенки"
+  lexem: "песенка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "курсистки"
+  lexem: "курсистка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "развозили"
+  lexem: "развозить"
+  part_of_speech: VERB
+}
+token {
+  original: "стране"
+  lexem: "страна"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Начались"
+  lexem: "начинаться"
+  part_of_speech: VERB
+}
+token {
+  original: "гастроли"
+  lexem: "гастроль"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "бенефисы"
+  lexem: "бенефис"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "возмущенной"
+  lexem: "возмущать"
+  part_of_speech: VERB
+}
+token {
+  original: "публики"
+  lexem: "публика"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "приходилось"
+  lexem: "приходиться"
+  part_of_speech: VERB
+}
+token {
+  original: "спасаться"
+  lexem: "спасаться"
+  part_of_speech: VERB
+}
+token {
+  original: "ход"
+  lexem: "ход"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Посыпались"
+  lexem: "посыпаться"
+  part_of_speech: VERB
+}
+token {
+  original: "приглашения"
+  lexem: "приглашение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "кино"
+  lexem: "кино"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Популярность"
+  lexem: "популярность"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "была"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "феврале"
+  lexem: "февраль"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "года"
+  lexem: "год"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Александра"
+  lexem: "александра"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Керенского"
+  lexem: "керенский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "называли"
+  lexem: "называть"
+  part_of_speech: VERB
+}
+token {
+  original: "Пьеро"
+  lexem: "пьеро"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "революции"
+  lexem: "революция"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "подавляющее"
+  lexem: "подавлять"
+  part_of_speech: VERB
+}
+token {
+  original: "большинство"
+  lexem: "большинство"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "представителей"
+  lexem: "представитель"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "интеллигенции"
+  lexem: "интеллигенция"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "связывал"
+  lexem: "связывать"
+  part_of_speech: VERB
+}
+token {
+  original: "революцией"
+  lexem: "революция"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "надежды"
+  lexem: "надежда"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "обновление"
+  lexem: "обновление"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "очищение"
+  lexem: "очищение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "переворот"
+  lexem: "переворот"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "заставил"
+  lexem: "заставлять"
+  part_of_speech: VERB
+}
+token {
+  original: "протрезветь"
+  lexem: "протрезветь"
+  part_of_speech: VERB
+}
+token {
+  original: "впечатлением"
+  lexem: "впечатление"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "гибели"
+  lexem: "гибель"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "юнкеров"
+  lexem: "юнкер"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "убитых"
+  lexem: "убивать"
+  part_of_speech: VERB
+}
+token {
+  original: "большевиками"
+  lexem: "большевик"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "написал"
+  lexem: "написать"
+  part_of_speech: VERB
+}
+token {
+  original: "Юнкеров"
+  lexem: "юнкер"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Я"
+  lexem: "я"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    person: FIRST
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "знаю"
+  lexem: "знать"
+  part_of_speech: VERB
+}
+token {
+  original: "кому"
+  lexem: "кто"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+  }
+}
+token {
+  original: "это"
+  lexem: "это"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+  }
+}
+token {
+  original: "Кто"
+  lexem: "кто"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+  }
+}
+token {
+  original: "послал"
+  lexem: "посылать"
+  part_of_speech: VERB
+}
+token {
+  original: "их"
+  lexem: "они"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: true
+  }
+}
+token {
+  original: "смерть"
+  lexem: "смерть"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "недрожавшей"
+  lexem: "недрожать"
+  part_of_speech: VERB
+}
+token {
+  original: "рукой"
+  lexem: "рука"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Только"
+  lexem: "только"
+  part_of_speech: PART
+}
+token {
+  original: "зло"
+  lexem: "зло"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Опустили"
+  lexem: "опускать"
+  part_of_speech: VERB
+}
+token {
+  original: "их"
+  lexem: "они"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: true
+  }
+}
+token {
+  original: "покой"
+  lexem: "покой"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Песня"
+  lexem: "песня"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "стала"
+  lexem: "становиться"
+  part_of_speech: VERB
+}
+token {
+  original: "гимном"
+  lexem: "гимн"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "нею"
+  lexem: "она"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: FEMALE
+    person: THIRD
+  }
+}
+token {
+  original: "шли"
+  lexem: "идти"
+  part_of_speech: VERB
+}
+token {
+  original: "бой"
+  lexem: "бой"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "умирали"
+  lexem: "умирать"
+  part_of_speech: VERB
+}
+token {
+  original: "офицеры"
+  lexem: "офицер"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "юнкера"
+  lexem: "юнкер"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Существует"
+  lexem: "существовать"
+  part_of_speech: VERB
+}
+token {
+  original: "легенда"
+  lexem: "легенда"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "вызывали"
+  lexem: "вызывать"
+  part_of_speech: VERB
+}
+token {
+  original: "дачи"
+  lexem: "дача"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "объяснений"
+  lexem: "объяснение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "поводу"
+  lexem: "повод"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "песни"
+  lexem: "песня"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Артист"
+  lexem: "артист"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "возмутился"
+  lexem: "возмущаться"
+  part_of_speech: VERB
+}
+token {
+  original: "вы"
+  lexem: "вы"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: true
+    person: SECOND
+  }
+}
+token {
+  original: "же"
+  lexem: "же"
+  part_of_speech: PART
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "можете"
+  lexem: "мочь"
+  part_of_speech: VERB
+}
+token {
+  original: "запретить"
+  lexem: "запрещать"
+  part_of_speech: VERB
+}
+token {
+  original: "мне"
+  lexem: "я"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    person: FIRST
+  }
+}
+token {
+  original: "их"
+  lexem: "они"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: true
+  }
+}
+token {
+  original: "жалеть"
+  lexem: "жалеть"
+  part_of_speech: VERB
+}
+token {
+  original: "ответ"
+  lexem: "ответ"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "услышал"
+  lexem: "услышать"
+  part_of_speech: VERB
+}
+token {
+  original: "Дышать"
+  lexem: "дышать"
+  part_of_speech: VERB
+}
+token {
+  original: "запретим"
+  lexem: "запрещать"
+  part_of_speech: VERB
+}
+token {
+  original: "потребуется"
+  lexem: "потребоваться"
+  part_of_speech: VERB
+}
+token {
+  original: "эпизоды"
+  lexem: "эпизод"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "жизни"
+  lexem: "жизнь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "допрос"
+  lexem: "допрос"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "имеет"
+  lexem: "иметь"
+  part_of_speech: VERB
+}
+token {
+  original: "подтверждений"
+  lexem: "подтверждение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Тем"
+  lexem: "то"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "факт"
+  lexem: "факт"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "остается"
+  lexem: "оставаться"
+  part_of_speech: VERB
+}
+token {
+  original: "фактом"
+  lexem: "факт"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "отступающей"
+  lexem: "отступать"
+  part_of_speech: VERB
+}
+token {
+  original: "армией"
+  lexem: "армия"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "артисты"
+  lexem: "артист"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "подался"
+  lexem: "подаваться"
+  part_of_speech: VERB
+}
+token {
+  original: "юг"
+  lexem: "юг"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "верили"
+  lexem: "верить"
+  part_of_speech: VERB
+}
+token {
+  original: "развязку"
+  lexem: "развязка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "мучились"
+  lexem: "мучиться"
+  part_of_speech: VERB
+}
+token {
+  original: "предчувствием"
+  lexem: "предчувствие"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "ее"
+  lexem: "она"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: FEMALE
+    person: THIRD
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "году"
+  lexem: "год"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "пароходе"
+  lexem: "пароход"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "князь"
+  lexem: "князь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Александр"
+  lexem: "александр"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Михайлович"
+  lexem: "михайлович"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "увозящем"
+  lexem: "увозить"
+  part_of_speech: VERB
+}
+token {
+  original: "барона"
+  lexem: "барон"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Врангеля"
+  lexem: "врангель"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "покинул"
+  lexem: "покидать"
+  part_of_speech: VERB
+}
+token {
+  original: "Россию"
+  lexem: "россия"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "отправившись"
+  lexem: "отправляться"
+  part_of_speech: VERB
+}
+token {
+  original: "изгнание"
+  lexem: "изгнание"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "года"
+  lexem: "год"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "одиссея"
+  lexem: "одиссея"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "началась"
+  lexem: "начинаться"
+  part_of_speech: VERB
+}
+token {
+  original: "Константинополя"
+  lexem: "константинополь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "он"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "пел"
+  lexem: "петь"
+  part_of_speech: VERB
+}
+token {
+  original: "эмигрантам"
+  lexem: "эмигрант"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "романсы"
+  lexem: "романс"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "раздобыл"
+  lexem: "раздобывать"
+  part_of_speech: VERB
+}
+token {
+  original: "паспорт"
+  lexem: "паспорт"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "имя"
+  lexem: "имя"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Александра"
+  lexem: "александра"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Вертидиса"
+  lexem: "вертидис"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Закружилась"
+  lexem: "закружиться"
+  part_of_speech: VERB
+}
+token {
+  original: "круговерть"
+  lexem: "круговерть"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "авантюр"
+  lexem: "авантюра"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "лиц"
+  lexem: "лицо"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "городов"
+  lexem: "город"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "стран"
+  lexem: "страна"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Румыния"
+  lexem: "румыния"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "Польша"
+  lexem: "польша"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "Германия"
+  lexem: "германия"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "Австрия"
+  lexem: "австрия"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "Венгрия"
+  lexem: "венгрия"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "Палестина"
+  lexem: "палестина"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "Египет"
+  lexem: "египет"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "Ливия"
+  lexem: "ливия"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Франция"
+  lexem: "франция"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "США"
+  lexem: "сша"
+  part_of_speech: NOUN
+  noun_analysis {
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "Выступления"
+  lexem: "выступление"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "ресторанах"
+  lexem: "ресторан"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "кабаках"
+  lexem: "кабак"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "десертом"
+  lexem: "десерт"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "мюзик-холлах"
+  lexem: "мюзик-холл"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "отелях"
+  lexem: "отель"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "королей"
+  lexem: "король"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Густава"
+  lexem: "густав"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Альфонса"
+  lexem: "альфонс"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "принца"
+  lexem: "принц"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Вандербильтов"
+  lexem: "вандербильтов"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Ротшильдов"
+  lexem: "ротшильд"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Бессарабии"
+  lexem: "бессарабия"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "арестовали"
+  lexem: "арестовывать"
+  part_of_speech: VERB
+}
+token {
+  original: "обвинению"
+  lexem: "обвинение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "пропаганде"
+  lexem: "пропаганда"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "песней"
+  lexem: "песня"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "степи"
+  lexem: "степь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "особенности"
+  lexem: "особенность"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "строками"
+  lexem: "строка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "слезы"
+  lexem: "слеза"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Хоть"
+  lexem: "хоть"
+  part_of_speech: PART
+}
+token {
+  original: "взглянуть"
+  lexem: "взглядывать"
+  part_of_speech: VERB
+}
+token {
+  original: "страну"
+  lexem: "страна"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "деятельности"
+  lexem: "деятельность"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "усмотрели"
+  lexem: "усматривать"
+  part_of_speech: VERB
+}
+token {
+  original: "происки"
+  lexem: "происки"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "НКВД"
+  lexem: "нквд"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "пор"
+  lexem: "пора"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "слава"
+  lexem: "слава"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "агента"
+  lexem: "агент"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "бросает"
+  lexem: "бросать"
+  part_of_speech: VERB
+}
+token {
+  original: "тень"
+  lexem: "тень"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "репутацию"
+  lexem: "репутация"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "день"
+  lexem: "день"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "будто"
+  lexem: "будто"
+  part_of_speech: PART
+}
+token {
+  original: "агент"
+  lexem: "агент"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "НКВД"
+  lexem: "нквд"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "может"
+  lexem: "мочь"
+  part_of_speech: VERB
+}
+token {
+  original: "быть"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "артистом"
+  lexem: "артист"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "лет"
+  lexem: "год"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "бы"
+  lexem: "бы"
+  part_of_speech: PART
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "ни"
+  lexem: "ни"
+  part_of_speech: PART
+}
+token {
+  original: "выступал"
+  lexem: "выступать"
+  part_of_speech: VERB
+}
+token {
+  original: "он"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "пел"
+  lexem: "петь"
+  part_of_speech: VERB
+}
+token {
+  original: "только"
+  lexem: "только"
+  part_of_speech: PART
+}
+token {
+  original: "исключение"
+  lexem: "исключение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "делал"
+  lexem: "делать"
+  part_of_speech: VERB
+}
+token {
+  original: "лишь"
+  lexem: "лишь"
+  part_of_speech: PART
+}
+token {
+  original: "Франции"
+  lexem: "франция"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "исполнял"
+  lexem: "исполнять"
+  part_of_speech: VERB
+}
+token {
+  original: "песенок"
+  lexem: "песенка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "аудиторией"
+  lexem: "аудитория"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "же"
+  lexem: "же"
+  part_of_speech: PART
+}
+token {
+  original: "была"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "эмиграция"
+  lexem: "эмиграция"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Пьеро"
+  lexem: "пьеро"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "являлся"
+  lexem: "являться"
+  part_of_speech: VERB
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "просто"
+  lexem: "просто"
+  part_of_speech: PART
+}
+token {
+  original: "символом"
+  lexem: "символ"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "утраченной"
+  lexem: "утрачивать"
+  part_of_speech: VERB
+}
+token {
+  original: "России"
+  lexem: "россия"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "выражению"
+  lexem: "выражение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Шаляпина"
+  lexem: "шаляпин"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "сказителем"
+  lexem: "сказитель"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "земли"
+  lexem: "земля"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "начала"
+  lexem: "начало"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "х"
+  lexem: "х"
+  part_of_speech: NOUN
+  noun_analysis {
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "просил"
+  lexem: "просить"
+  part_of_speech: VERB
+}
+token {
+  original: "разрешения"
+  lexem: "разрешение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "вернуться"
+  lexem: "вернуться"
+  part_of_speech: VERB
+}
+token {
+  original: "консульство"
+  lexem: "консульство"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Анатолия"
+  lexem: "анатолий"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Луначарского"
+  lexem: "луначарский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "возглавившего"
+  lexem: "возглавлять"
+  part_of_speech: VERB
+}
+token {
+  original: "делегацию"
+  lexem: "делегация"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Берлине"
+  lexem: "берлин"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "получал"
+  lexem: "получать"
+  part_of_speech: VERB
+}
+token {
+  original: "отказ"
+  lexem: "отказ"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "конце"
+  lexem: "конец"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "года"
+  lexem: "год"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "он"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "приехал"
+  lexem: "приезжать"
+  part_of_speech: VERB
+}
+token {
+  original: "Китай"
+  lexem: "китай"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "Шанхае"
+  lexem: "шанхай"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "Харбине"
+  lexem: "харбин"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "была"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "община"
+  lexem: "община"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Шанхае"
+  lexem: "шанхай"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "артист"
+  lexem: "артист"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "дал"
+  lexem: "давать"
+  part_of_speech: VERB
+}
+token {
+  original: "концертов"
+  lexem: "концерт"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "даже"
+  lexem: "даже"
+  part_of_speech: PART
+}
+token {
+  original: "Шаляпину"
+  lexem: "шаляпин"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "сумели"
+  lexem: "суметь"
+  part_of_speech: VERB
+}
+token {
+  original: "организовать"
+  lexem: "организовывать"
+  part_of_speech: VERB
+}
+token {
+  original: "только"
+  lexem: "только"
+  part_of_speech: PART
+}
+token {
+  original: "выступления"
+  lexem: "выступление"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "петь"
+  lexem: "петь"
+  part_of_speech: VERB
+}
+token {
+  original: "же"
+  lexem: "же"
+  part_of_speech: PART
+}
+token {
+  original: "аудитории"
+  lexem: "аудитория"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "намеревался"
+  lexem: "намереваться"
+  part_of_speech: VERB
+}
+token {
+  original: "время"
+  lexem: "время"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "вернуться"
+  lexem: "вернуться"
+  part_of_speech: VERB
+}
+token {
+  original: "Европу"
+  lexem: "европа"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "году"
+  lexem: "год"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "пригласили"
+  lexem: "приглашать"
+  part_of_speech: VERB
+}
+token {
+  original: "СССР"
+  lexem: "ссср"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "просьб"
+  lexem: "просьба"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "стороны"
+  lexem: "сторона"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "артиста"
+  lexem: "артист"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "остался"
+  lexem: "оставаться"
+  part_of_speech: VERB
+}
+token {
+  original: "Китае"
+  lexem: "китай"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "ожидая"
+  lexem: "ожидать"
+  part_of_speech: VERB
+}
+token {
+  original: "организуют"
+  lexem: "организовывать"
+  part_of_speech: VERB
+}
+token {
+  original: "возвращение"
+  lexem: "возвращение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Он"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "ждал"
+  lexem: "ждать"
+  part_of_speech: VERB
+}
+token {
+  original: "лет"
+  lexem: "год"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "побудило"
+  lexem: "побуждать"
+  part_of_speech: VERB
+}
+token {
+  original: "Сталина"
+  lexem: "сталин"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "позвать"
+  lexem: "позвать"
+  part_of_speech: VERB
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Рассказывали"
+  lexem: "рассказывать"
+  part_of_speech: VERB
+}
+token {
+  original: "генералиссимус"
+  lexem: "генералиссимус"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "любил"
+  lexem: "любить"
+  part_of_speech: VERB
+}
+token {
+  original: "слушать"
+  lexem: "слушать"
+  part_of_speech: VERB
+}
+token {
+  original: "ариетки"
+  lexem: "ариетка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Брата"
+  lexem: "брат"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Пьеро"
+  lexem: "пьеро"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "часы"
+  lexem: "часы"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "отдыха"
+  lexem: "отдых"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "песню"
+  lexem: "песня"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "океане"
+  lexem: "океан"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Легенда"
+  lexem: "легенда"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "приписывает"
+  lexem: "приписывать"
+  part_of_speech: VERB
+}
+token {
+  original: "Сталину"
+  lexem: "сталин"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "фразу"
+  lexem: "фраза"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Дадим"
+  lexem: "давать"
+  part_of_speech: VERB
+}
+token {
+  original: "артисту"
+  lexem: "артист"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Вертинскому"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "дожить"
+  lexem: "доживать"
+  part_of_speech: VERB
+}
+token {
+  original: "Родине"
+  lexem: "родина"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "произнесенную"
+  lexem: "произносить"
+  part_of_speech: VERB
+}
+token {
+  original: "того"
+  lexem: "то"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+  }
+}
+token {
+  original: "отец"
+  lexem: "отец"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "народов"
+  lexem: "народ"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "вычеркнул"
+  lexem: "вычеркнуть"
+  part_of_speech: VERB
+}
+token {
+  original: "артиста"
+  lexem: "артист"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "постановления"
+  lexem: "постановление"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "громившего"
+  lexem: "громить"
+  part_of_speech: VERB
+}
+token {
+  original: "Дмитрия"
+  lexem: "дмитрий"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Шостаковича"
+  lexem: "шостакович"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Сергея"
+  lexem: "сергей"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Прокофьева"
+  lexem: "прокофьев"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Нравился"
+  lexem: "нравиться"
+  part_of_speech: VERB
+}
+token {
+  original: "Сталину"
+  lexem: "сталин"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "нет"
+  lexem: "нет"
+  part_of_speech: PART
+}
+token {
+  original: "возвращение"
+  lexem: "возвращение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "соловья"
+  lexem: "соловей"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "белоэмиграции"
+  lexem: "белоэмиграция"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "знаменитости"
+  lexem: "знаменитость"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "было"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "режиму"
+  lexem: "режим"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "тем"
+  lexem: "то"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+  }
+}
+token {
+  original: "году"
+  lexem: "год"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "открылся"
+  lexem: "открываться"
+  part_of_speech: VERB
+}
+token {
+  original: "фронт"
+  lexem: "фронт"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "стране"
+  lexem: "страна"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "бродили"
+  lexem: "бродить"
+  part_of_speech: VERB
+}
+token {
+  original: "настроения"
+  lexem: "настроение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "же"
+  lexem: "же"
+  part_of_speech: PART
+}
+token {
+  original: "говорил"
+  lexem: "говорить"
+  part_of_speech: VERB
+}
+token {
+  original: "том"
+  lexem: "то"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+  }
+}
+token {
+  original: "возвращается"
+  lexem: "возвращаться"
+  part_of_speech: VERB
+}
+token {
+  original: "рассказать"
+  lexem: "рассказывать"
+  part_of_speech: VERB
+}
+token {
+  original: "страданиях"
+  lexem: "страдание"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "эмиграции"
+  lexem: "эмиграция"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "помирить"
+  lexem: "помирить"
+  part_of_speech: VERB
+}
+token {
+  original: "Родину"
+  lexem: "родина"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "ней"
+  lexem: "она"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: FEMALE
+    person: THIRD
+  }
+}
+token {
+  original: "Тэффи"
+  lexem: "тэффи"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Наталия"
+  lexem: "наталия"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Ильина"
+  lexem: "ильин"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "преминула"
+  lexem: "преминуть"
+  part_of_speech: VERB
+}
+token {
+  original: "поводу"
+  lexem: "повод"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "съязвить"
+  lexem: "съязвить"
+  part_of_speech: VERB
+}
+token {
+  original: "романе"
+  lexem: "роман"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Возвращение"
+  lexem: "возвращение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Ее"
+  lexem: "она"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: FEMALE
+    person: THIRD
+  }
+}
+token {
+  original: "Джордж"
+  lexem: "джордж"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Эрмин"
+  lexem: "эрмин"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Георгий"
+  lexem: "георгий"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Еремин"
+  lexem: "еремин"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "прочитав"
+  lexem: "прочитывать"
+  part_of_speech: VERB
+}
+token {
+  original: "Конституцию"
+  lexem: "конституция"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "СССР"
+  lexem: "ссср"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "перекрестился"
+  lexem: "перекрещиваться"
+  part_of_speech: VERB
+}
+token {
+  original: "изрек"
+  lexem: "изрекать"
+  part_of_speech: VERB
+}
+token {
+  original: "Я"
+  lexem: "я"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    person: FIRST
+  }
+}
+token {
+  original: "подумал"
+  lexem: "подумать"
+  part_of_speech: VERB
+}
+token {
+  original: "же"
+  lexem: "же"
+  part_of_speech: PART
+}
+token {
+  original: "это"
+  lexem: "это"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+  }
+}
+token {
+  original: "Китеж"
+  lexem: "китеж"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "воскресающий"
+  lexem: "воскресать"
+  part_of_speech: VERB
+}
+token {
+  original: "нас"
+  lexem: "мы"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: true
+    person: FIRST
+  }
+}
+token {
+  original: "утром"
+  lexem: "утро"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "ноября"
+  lexem: "ноябрь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "года"
+  lexem: "год"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "пароходе"
+  lexem: "пароход"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Дайрен"
+  lexem: "дайрен"
+  part_of_speech: NOUN
+  noun_analysis {
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Мару"
+  lexem: "мара"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "покинул"
+  lexem: "покидать"
+  part_of_speech: VERB
+}
+token {
+  original: "Шанхай"
+  lexem: "шанхай"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "ним"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "были"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "жена"
+  lexem: "жена"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "Лидия"
+  lexem: "лидия"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "ее"
+  lexem: "она"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: FEMALE
+    person: THIRD
+  }
+}
+token {
+  original: "мать"
+  lexem: "мать"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "руках"
+  lexem: "рука"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "он"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "держал"
+  lexem: "держать"
+  part_of_speech: VERB
+}
+token {
+  original: "дочь"
+  lexem: "дочь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "Марианну"
+  lexem: "марианна"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Необходимость"
+  lexem: "необходимость"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "содержать"
+  lexem: "содержать"
+  part_of_speech: VERB
+}
+token {
+  original: "семью"
+  lexem: "семья"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "была"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "причиной"
+  lexem: "причина"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "переезда"
+  lexem: "переезд"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "СССР"
+  lexem: "ссср"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "Шла"
+  lexem: "идти"
+  part_of_speech: VERB
+}
+token {
+  original: "война"
+  lexem: "война"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "зверствовала"
+  lexem: "зверствовать"
+  part_of_speech: VERB
+}
+token {
+  original: "инфляция"
+  lexem: "инфляция"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "конторы"
+  lexem: "контора"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Китае"
+  lexem: "китай"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "закрывались"
+  lexem: "закрываться"
+  part_of_speech: VERB
+}
+token {
+  original: "эмигранты"
+  lexem: "эмигрант"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "спасались"
+  lexem: "спасаться"
+  part_of_speech: VERB
+}
+token {
+  original: "оккупации"
+  lexem: "оккупация"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Выступать"
+  lexem: "выступать"
+  part_of_speech: VERB
+}
+token {
+  original: "становилось"
+  lexem: "становиться"
+  part_of_speech: VERB
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "пускался"
+  lexem: "пускаться"
+  part_of_speech: VERB
+}
+token {
+  original: "авантюры"
+  lexem: "авантюра"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "имевшие"
+  lexem: "иметь"
+  part_of_speech: VERB
+}
+token {
+  original: "успеха"
+  lexem: "успех"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "операцией"
+  lexem: "операция"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "была"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "закупка"
+  lexem: "закупка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "бутылей"
+  lexem: "бутыль"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "водки"
+  lexem: "водка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "рождения"
+  lexem: "рождение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "ребенка"
+  lexem: "ребенок"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Продав"
+  lexem: "продавать"
+  part_of_speech: VERB
+}
+token {
+  original: "их"
+  lexem: "они"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: true
+  }
+}
+token {
+  original: "повышения"
+  lexem: "повышение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "цен"
+  lexem: "цена"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "оплатил"
+  lexem: "оплачивать"
+  part_of_speech: VERB
+}
+token {
+  original: "счета"
+  lexem: "счет"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "услуги"
+  lexem: "услуга"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "роддома"
+  lexem: "роддом"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "городом"
+  lexem: "город"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "их"
+  lexem: "они"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: true
+  }
+}
+token {
+  original: "пути"
+  lexem: "путь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "стала"
+  lexem: "становиться"
+  part_of_speech: VERB
+}
+token {
+  original: "Чита"
+  lexem: "чита"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "Стоял"
+  lexem: "стоять"
+  part_of_speech: VERB
+}
+token {
+  original: "мороз"
+  lexem: "мороз"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "семью"
+  lexem: "семья"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "поселили"
+  lexem: "поселять"
+  part_of_speech: VERB
+}
+token {
+  original: "гостинице"
+  lexem: "гостиница"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "топили"
+  lexem: "топить"
+  part_of_speech: VERB
+}
+token {
+  original: "стенам"
+  lexem: "стена"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "ползали"
+  lexem: "ползать"
+  part_of_speech: VERB
+}
+token {
+  original: "клопы"
+  lexem: "клоп"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "филармонии"
+  lexem: "филармония"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "артиста"
+  lexem: "артист"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "поджидала"
+  lexem: "поджидать"
+  part_of_speech: VERB
+}
+token {
+  original: "телеграмма"
+  lexem: "телеграмма"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Москвы"
+  lexem: "москва"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "распоряжением"
+  lexem: "распоряжение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "дать"
+  lexem: "давать"
+  part_of_speech: VERB
+}
+token {
+  original: "Чите"
+  lexem: "чита"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "концертов"
+  lexem: "концерт"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Родина"
+  lexem: "родина"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "встречала"
+  lexem: "встречать"
+  part_of_speech: VERB
+}
+token {
+  original: "сына"
+  lexem: "сын"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "возвращении"
+  lexem: "возвращение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "ходили"
+  lexem: "ходить"
+  part_of_speech: VERB
+}
+token {
+  original: "анекдоты"
+  lexem: "анекдот"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "них"
+  lexem: "они"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: true
+  }
+}
+token {
+  original: "рассказывалось"
+  lexem: "рассказываться"
+  part_of_speech: VERB
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "приехав"
+  lexem: "приезжать"
+  part_of_speech: VERB
+}
+token {
+  original: "СССР"
+  lexem: "ссср"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "выходит"
+  lexem: "выходить"
+  part_of_speech: VERB
+}
+token {
+  original: "вагона"
+  lexem: "вагон"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "чемоданами"
+  lexem: "чемодан"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "ставит"
+  lexem: "ставить"
+  part_of_speech: VERB
+}
+token {
+  original: "их"
+  lexem: "они"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: true
+  }
+}
+token {
+  original: "целует"
+  lexem: "целовать"
+  part_of_speech: VERB
+}
+token {
+  original: "землю"
+  lexem: "земля"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "смотрит"
+  lexem: "смотреть"
+  part_of_speech: VERB
+}
+token {
+  original: "Не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "узнаю"
+  lexem: "узнавать"
+  part_of_speech: VERB
+}
+token {
+  original: "тебя"
+  lexem: "ты"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    person: SECOND
+  }
+}
+token {
+  original: "Россия"
+  lexem: "россия"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "Обернувшись"
+  lexem: "обертываться"
+  part_of_speech: VERB
+}
+token {
+  original: "обнаруживает"
+  lexem: "обнаруживать"
+  part_of_speech: VERB
+}
+token {
+  original: "чемоданов"
+  lexem: "чемодан"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "нет"
+  lexem: "нет"
+  part_of_speech: PART
+}
+token {
+  original: "Узнаю"
+  lexem: "узнавать"
+  part_of_speech: VERB
+}
+token {
+  original: "тебя"
+  lexem: "ты"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    person: SECOND
+  }
+}
+token {
+  original: "Россия"
+  lexem: "россия"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "восклицает"
+  lexem: "восклицать"
+  part_of_speech: VERB
+}
+token {
+  original: "артист"
+  lexem: "артист"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "повествовалось"
+  lexem: "повествоваться"
+  part_of_speech: VERB
+}
+token {
+  original: "приеме"
+  lexem: "прием"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "устроенном"
+  lexem: "устраивать"
+  part_of_speech: VERB
+}
+token {
+  original: "честь"
+  lexem: "честь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "графом"
+  lexem: "граф"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Алексеем"
+  lexem: "алексей"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Николаевичем"
+  lexem: "николаевич"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Гости"
+  lexem: "гость"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "томятся"
+  lexem: "томиться"
+  part_of_speech: VERB
+}
+token {
+  original: "ожидая"
+  lexem: "ожидать"
+  part_of_speech: VERB
+}
+token {
+  original: "их"
+  lexem: "они"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: true
+  }
+}
+token {
+  original: "пригласят"
+  lexem: "приглашать"
+  part_of_speech: VERB
+}
+token {
+  original: "столу"
+  lexem: "стол"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Кто-то"
+  lexem: "кто-то"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+  }
+}
+token {
+  original: "присутствующих"
+  lexem: "присутствовать"
+  part_of_speech: VERB
+}
+token {
+  original: "оглядев"
+  lexem: "оглядывать"
+  part_of_speech: VERB
+}
+token {
+  original: "собравшееся"
+  lexem: "собираться"
+  part_of_speech: VERB
+}
+token {
+  original: "общество"
+  lexem: "общество"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "граф"
+  lexem: "граф"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Толстой"
+  lexem: "толстой"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "граф"
+  lexem: "граф"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Игнатьев"
+  lexem: "игнатьев"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "митрополит"
+  lexem: "митрополит"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Николай"
+  lexem: "николай"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Крутицкий"
+  lexem: "крутицкий"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Александр"
+  lexem: "александр"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "спрашивает"
+  lexem: "спрашивать"
+  part_of_speech: VERB
+}
+token {
+  original: "Кого"
+  lexem: "кто"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+  }
+}
+token {
+  original: "ждем"
+  lexem: "ждать"
+  part_of_speech: VERB
+}
+token {
+  original: "Остроумец"
+  lexem: "остроумец"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "куплетист"
+  lexem: "куплетист"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Смирнов"
+  lexem: "смирнов"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Сокольский"
+  lexem: "сокольский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "отвечает"
+  lexem: "отвечать"
+  part_of_speech: VERB
+}
+token {
+  original: "Государя"
+  lexem: "государь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "киноролью"
+  lexem: "кинороль"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "стал"
+  lexem: "становиться"
+  part_of_speech: VERB
+}
+token {
+  original: "кардинал"
+  lexem: "кардинал"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Бирнч"
+  lexem: "бирнч"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "фильме"
+  lexem: "фильм"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Михаила"
+  lexem: "михаил"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Калатозова"
+  lexem: "калатозова"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Заговор"
+  lexem: "заговор"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Актер"
+  lexem: "актер"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "сыграл"
+  lexem: "сыграть"
+  part_of_speech: VERB
+}
+token {
+  original: "патриция"
+  lexem: "патриций"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "следами"
+  lexem: "след"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "донжуанства"
+  lexem: "донжуанство"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "выглядеть"
+  lexem: "выглядеть"
+  part_of_speech: VERB
+}
+token {
+  original: "враг"
+  lexem: "враг"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "режима"
+  lexem: "режим"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "воспитанный"
+  lexem: "воспитывать"
+  part_of_speech: VERB
+}
+token {
+  original: "обвораживающий"
+  lexem: "обвораживать"
+  part_of_speech: VERB
+}
+token {
+  original: "лоском"
+  lexem: "лоск"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Только"
+  lexem: "только"
+  part_of_speech: PART
+}
+token {
+  original: "могут"
+  lexem: "мочь"
+  part_of_speech: VERB
+}
+token {
+  original: "строить"
+  lexem: "строить"
+  part_of_speech: VERB
+}
+token {
+  original: "заговоры"
+  lexem: "заговор"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "вынашивать"
+  lexem: "вынашивать"
+  part_of_speech: VERB
+}
+token {
+  original: "планы"
+  lexem: "план"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "переворота"
+  lexem: "переворот"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "премия"
+  lexem: "премия"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "роль"
+  lexem: "роль"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "кардинала"
+  lexem: "кардинал"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "свидетельствовала"
+  lexem: "свидетельствовать"
+  part_of_speech: VERB
+}
+token {
+  original: "одобрении"
+  lexem: "одобрение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "трактовки"
+  lexem: "трактовка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "же"
+  lexem: "же"
+  part_of_speech: PART
+}
+token {
+  original: "Януса"
+  lexem: "янус"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "исполнил"
+  lexem: "исполнять"
+  part_of_speech: VERB
+}
+token {
+  original: "фильме"
+  lexem: "фильм"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Сергея"
+  lexem: "сергей"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Юткевича"
+  lexem: "юткевич"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "воин"
+  lexem: "воин"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Скандербег"
+  lexem: "скандербег"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "он"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "играл"
+  lexem: "играть"
+  part_of_speech: VERB
+}
+token {
+  original: "бы"
+  lexem: "бы"
+  part_of_speech: PART
+}
+token {
+  original: "маскирующихся"
+  lexem: "маскироваться"
+  part_of_speech: VERB
+}
+token {
+  original: "иродов"
+  lexem: "ирод"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "бы"
+  lexem: "бы"
+  part_of_speech: PART
+}
+token {
+  original: "Исидор"
+  lexem: "исидор"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Анненский"
+  lexem: "анненский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "предложил"
+  lexem: "предлагать"
+  part_of_speech: VERB
+}
+token {
+  original: "ему"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "роль"
+  lexem: "роль"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "князя"
+  lexem: "князь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "экранизации"
+  lexem: "экранизация"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Анны"
+  lexem: "анна"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "шее"
+  lexem: "шея"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "появлением"
+  lexem: "появление"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "экране"
+  lexem: "экран"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "обломок"
+  lexem: "обломок"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "России"
+  lexem: "россия"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "воскрешал"
+  lexem: "воскрешать"
+  part_of_speech: VERB
+}
+token {
+  original: "шик"
+  lexem: "шик"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "собраний"
+  lexem: "собрание"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "балов"
+  lexem: "бал"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "дворе"
+  lexem: "двор"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Положение"
+  lexem: "положение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "артиста"
+  lexem: "артист"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "было"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "стороны"
+  lexem: "сторона"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "благоволение"
+  lexem: "благоволение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "властей"
+  lexem: "власть"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "семьей"
+  lexem: "семья"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "поселили"
+  lexem: "поселять"
+  part_of_speech: VERB
+}
+token {
+  original: "Метрополе"
+  lexem: "метрополь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "выделили"
+  lexem: "выделять"
+  part_of_speech: VERB
+}
+token {
+  original: "квартиру"
+  lexem: "квартира"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "наградили"
+  lexem: "награждать"
+  part_of_speech: VERB
+}
+token {
+  original: "премией"
+  lexem: "премия"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "семья"
+  lexem: "семья"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "течение"
+  lexem: "течение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "лет"
+  lexem: "год"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "обитала"
+  lexem: "обитать"
+  part_of_speech: VERB
+}
+token {
+  original: "Метрополе"
+  lexem: "метрополь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "жизни"
+  lexem: "жизнь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Съехать"
+  lexem: "съезжать"
+  part_of_speech: VERB
+}
+token {
+  original: "было"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "просто"
+  lexem: "просто"
+  part_of_speech: PART
+}
+token {
+  original: "выделенная"
+  lexem: "выделять"
+  part_of_speech: VERB
+}
+token {
+  original: "квартира"
+  lexem: "квартира"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "находилась"
+  lexem: "находиться"
+  part_of_speech: VERB
+}
+token {
+  original: "этаже"
+  lexem: "этаж"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "дома"
+  lexem: "дом"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "шоссе"
+  lexem: "шоссе"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Артист"
+  lexem: "артист"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "опасался"
+  lexem: "опасаться"
+  part_of_speech: VERB
+}
+token {
+  original: "поселяться"
+  lexem: "поселяться"
+  part_of_speech: VERB
+}
+token {
+  original: "ней"
+  lexem: "она"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: FEMALE
+    person: THIRD
+  }
+}
+token {
+  original: "помощью"
+  lexem: "помощь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "маневров"
+  lexem: "маневр"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "обменял"
+  lexem: "обменять"
+  part_of_speech: VERB
+}
+token {
+  original: "ее"
+  lexem: "она"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: FEMALE
+    person: THIRD
+  }
+}
+token {
+  original: "квартиру"
+  lexem: "квартира"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "улице"
+  lexem: "улица"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Горького"
+  lexem: "горький"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "была"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "состоянии"
+  lexem: "состояние"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "нуждалась"
+  lexem: "нуждаться"
+  part_of_speech: VERB
+}
+token {
+  original: "ремонте"
+  lexem: "ремонт"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Опасения"
+  lexem: "опасение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинского"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "выяснилось"
+  lexem: "выясняться"
+  part_of_speech: VERB
+}
+token {
+  original: "были"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "квартира"
+  lexem: "квартира"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "шоссе"
+  lexem: "шоссе"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "подверглась"
+  lexem: "подвергаться"
+  part_of_speech: VERB
+}
+token {
+  original: "налету"
+  lexem: "налет"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "кошки"
+  lexem: "кошка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "стороны"
+  lexem: "сторона"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "песен"
+  lexem: "песня"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "исполнению"
+  lexem: "исполнение"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "было"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "разрешено"
+  lexem: "разрешать"
+  part_of_speech: VERB
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "авторство"
+  lexem: "авторство"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "текстов"
+  lexem: "текст"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Георгия"
+  lexem: "георгий"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Иванова"
+  lexem: "иванов"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Николая"
+  lexem: "николай"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Гумилева"
+  lexem: "гумилев"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Вертинскому"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "пришлось"
+  lexem: "приходиться"
+  part_of_speech: VERB
+}
+token {
+  original: "приписать"
+  lexem: "приписывать"
+  part_of_speech: VERB
+}
+token {
+  original: "себе"
+  lexem: "себя"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+  }
+}
+token {
+  original: "пластинка"
+  lexem: "пластинка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "вышла"
+  lexem: "выходить"
+  part_of_speech: VERB
+}
+token {
+  original: "году"
+  lexem: "год"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "концертах"
+  lexem: "концерт"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "ни"
+  lexem: "ни"
+  part_of_speech: PART
+}
+token {
+  original: "строчки"
+  lexem: "строчка"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "прессе"
+  lexem: "пресса"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Я"
+  lexem: "я"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    person: FIRST
+  }
+}
+token {
+  original: "существую"
+  lexem: "существовать"
+  part_of_speech: VERB
+}
+token {
+  original: "правах"
+  lexem: "право"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "дома"
+  lexem: "дом"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "шутил"
+  lexem: "шутить"
+  part_of_speech: VERB
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "ходят"
+  lexem: "ходить"
+  part_of_speech: VERB
+}
+token {
+  original: "обществе"
+  lexem: "общество"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "говорить"
+  lexem: "говорить"
+  part_of_speech: VERB
+}
+token {
+  original: "этом"
+  lexem: "это"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "принято"
+  lexem: "принимать"
+  part_of_speech: VERB
+}
+token {
+  original: "эмиграции"
+  lexem: "эмиграция"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "вернулся"
+  lexem: "вернуться"
+  part_of_speech: VERB
+}
+token {
+  original: "карманами"
+  lexem: "карман"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "родилась"
+  lexem: "рождаться"
+  part_of_speech: VERB
+}
+token {
+  original: "дочь"
+  lexem: "дочь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: true
+  }
+}
+token {
+  original: "Настя"
+  lexem: "настя"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Гастрольбюро"
+  lexem: "гастрольбюро"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "обеспечило"
+  lexem: "обеспечивать"
+  part_of_speech: VERB
+}
+token {
+  original: "артисту"
+  lexem: "артист"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "концертов"
+  lexem: "концерт"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "месяц"
+  lexem: "месяц"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "стране"
+  lexem: "страна"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "Азии"
+  lexem: "азия"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "Востока"
+  lexem: "восток"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "выступлений"
+  lexem: "выступление"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "залах"
+  lexem: "зал"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "расстроенными"
+  lexem: "расстраивать"
+  part_of_speech: VERB
+}
+token {
+  original: "роялями"
+  lexem: "рояль"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "публикой"
+  lexem: "публика"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "жизнь"
+  lexem: "жизнь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "кабаках"
+  lexem: "кабак"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "приучила"
+  lexem: "приучать"
+  part_of_speech: VERB
+}
+token {
+  original: "его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "работать"
+  lexem: "работать"
+  part_of_speech: VERB
+}
+token {
+  original: "условиях"
+  lexem: "условие"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "Платили"
+  lexem: "платить"
+  part_of_speech: VERB
+}
+token {
+  original: "Вертинскому"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "тарифу"
+  lexem: "тариф"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "него"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "было"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "званий"
+  lexem: "звание"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "концерт"
+  lexem: "концерт"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "артист"
+  lexem: "артист"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "получал"
+  lexem: "получать"
+  part_of_speech: VERB
+}
+token {
+  original: "рублей"
+  lexem: "рубль"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "этом"
+  lexem: "это"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+  }
+}
+token {
+  original: "его"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "выступления"
+  lexem: "выступление"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "проходили"
+  lexem: "проходить"
+  part_of_speech: VERB
+}
+token {
+  original: "аншлагах"
+  lexem: "аншлаг"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "собирали"
+  lexem: "собирать"
+  part_of_speech: VERB
+}
+token {
+  original: "десятки"
+  lexem: "десяток"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "тысяч"
+  lexem: "тысяча"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "рублей"
+  lexem: "рубль"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Приходилось"
+  lexem: "приходиться"
+  part_of_speech: VERB
+}
+token {
+  original: "соглашаться"
+  lexem: "соглашаться"
+  part_of_speech: VERB
+}
+token {
+  original: "давать"
+  lexem: "давать"
+  part_of_speech: VERB
+}
+token {
+  original: "концерты"
+  lexem: "концерт"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "выкручиваться"
+  lexem: "выкручиваться"
+  part_of_speech: VERB
+}
+token {
+  original: "объясняться"
+  lexem: "объясняться"
+  part_of_speech: VERB
+}
+token {
+  original: "аккомпаниатором"
+  lexem: "аккомпаниатор"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Михаилом"
+  lexem: "михаил"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "он"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "исколесил"
+  lexem: "исколесить"
+  part_of_speech: VERB
+}
+token {
+  original: "страну"
+  lexem: "страна"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "раз"
+  lexem: "раз"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "дав"
+  lexem: "давать"
+  part_of_speech: VERB
+}
+token {
+  original: "тысяч"
+  lexem: "тысяча"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "концертов"
+  lexem: "концерт"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Написал"
+  lexem: "написать"
+  part_of_speech: VERB
+}
+token {
+  original: "десятка"
+  lexem: "десяток"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "стихов"
+  lexem: "стих"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "работал"
+  lexem: "работать"
+  part_of_speech: VERB
+}
+token {
+  original: "мемуарами"
+  lexem: "мемуары"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "успел"
+  lexem: "успевать"
+  part_of_speech: VERB
+}
+token {
+  original: "закончить"
+  lexem: "заканчивать"
+  part_of_speech: VERB
+}
+token {
+  original: "лет"
+  lexem: "год"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Родине"
+  lexem: "родина"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "превратили"
+  lexem: "превращать"
+  part_of_speech: VERB
+}
+token {
+  original: "мужчину"
+  lexem: "мужчина"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "старика"
+  lexem: "старик"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "Он"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "хотел"
+  lexem: "хотеть"
+  part_of_speech: VERB
+}
+token {
+  original: "умереть"
+  lexem: "умирать"
+  part_of_speech: VERB
+}
+token {
+  original: "дома"
+  lexem: "дом"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "желал"
+  lexem: "желать"
+  part_of_speech: VERB
+}
+token {
+  original: "видели"
+  lexem: "видеть"
+  part_of_speech: VERB
+}
+token {
+  original: "кухню"
+  lexem: "кухня"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "смерти"
+  lexem: "смерть"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "мая"
+  lexem: "май"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "года"
+  lexem: "год"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Вертинский"
+  lexem: "вертинский"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "готовился"
+  lexem: "готовиться"
+  part_of_speech: VERB
+}
+token {
+  original: "концерту"
+  lexem: "концерт"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Ленинграде"
+  lexem: "ленинград"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "был"
+  lexem: "быть"
+  part_of_speech: VERB
+}
+token {
+  original: "сдержан"
+  lexem: "сдерживать"
+  part_of_speech: VERB
+}
+token {
+  original: "Он"
+  lexem: "он"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    gender: MALE
+    person: THIRD
+  }
+}
+token {
+  original: "находился"
+  lexem: "находиться"
+  part_of_speech: VERB
+}
+token {
+  original: "м"
+  lexem: "м"
+  part_of_speech: NOUN
+  noun_analysis {
+  }
+}
+token {
+  original: "номере"
+  lexem: "номер"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Астории"
+  lexem: "астория"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: GEO
+    is_animal: false
+  }
+}
+token {
+  original: "начался"
+  lexem: "начинаться"
+  part_of_speech: VERB
+}
+token {
+  original: "приступ"
+  lexem: "приступ"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Лекарства"
+  lexem: "лекарство"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "рукой"
+  lexem: "рука"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "оказалось"
+  lexem: "оказываться"
+  part_of_speech: VERB
+}
+token {
+  original: "выяснилось"
+  lexem: "выясняться"
+  part_of_speech: VERB
+}
+token {
+  original: "оно"
+  lexem: "оно"
+  part_of_speech: PRONOUN
+  pronoun_analysis {
+    is_plural: false
+    person: THIRD
+  }
+}
+token {
+  original: "бы"
+  lexem: "бы"
+  part_of_speech: PART
+}
+token {
+  original: "не"
+  lexem: "не"
+  part_of_speech: PART
+}
+token {
+  original: "помогло"
+  lexem: "помогать"
+  part_of_speech: VERB
+}
+token {
+  original: "вскрытии"
+  lexem: "вскрытие"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}
+token {
+  original: "сосуды"
+  lexem: "сосуд"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "рассыпались"
+  lexem: "рассыпаться"
+  part_of_speech: VERB
+}
+token {
+  original: "стекло"
+  lexem: "стекло"
+  part_of_speech: NOUN
+  noun_analysis {
+    is_animal: false
+  }
+}

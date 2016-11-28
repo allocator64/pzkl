@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.5)
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -Wextra -pedantic -Wno-error=unused-parameter")
+find_package(Protobuf REQUIRED)
+protobuf_generate_cpp(PROTO_SRCS PROTO_HDRS messages.proto)
+add_subdirectory(json11)
+add_executable(main main.cc util.cc mystem.cc ${PROTO_SRCS})
+target_link_libraries(main ${Protobuf_LIBRARIES} json11)
