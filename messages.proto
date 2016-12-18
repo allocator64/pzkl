@@ -9,8 +9,9 @@ enum Gender {
 message NounAnalysis {
 
   enum Type {
-    NAME = 0;
-    GEO = 1;
+    UNKNOWN = 0;
+    NAME = 1;
+    GEO = 2;
   }
 
   optional Gender gender = 1;
@@ -52,6 +53,7 @@ message Token {
     VERB = 1;     // 	глагол
     PART = 2;     // 	частица
     PRONOUN = 3;  // 	местоимение-существительное
+    SENTENCE_BOUND = 4;  // граница предложения
   }
 
   optional string original = 1;
@@ -65,4 +67,24 @@ message Token {
   }
 }
 
-message Tokens { repeated Token token = 1; }
+message Tokens {
+  repeated Token token = 1;
+}
+
+message Span {
+  enum Type {
+    UNKNOWN = 0;
+    NAME = 1;
+    VERB = 2;
+  }
+  optional Type type = 1;
+  repeated Token token = 2;
+}
+
+message Sentence {
+  repeated Span span = 1;
+}
+
+message Text {
+  repeated Sentence sentence = 1;
+}

@@ -1,0 +1,184 @@
+token {
+  original: "Борис"
+  lexem: "борис"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Крылов"
+  lexem: "крылов"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "встретил"
+  lexem: "встречать"
+  part_of_speech: VERB
+}
+token {
+  original: "Вячеслава"
+  lexem: "вячеслав"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Гилевича"
+  lexem: "гилевич"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: ". "
+  part_of_speech: SENTENCE_BOUND
+}
+token {
+  original: "Екатерина"
+  lexem: "екатерина"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Косарева"
+  lexem: "косарев"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "встретила"
+  lexem: "встречать"
+  part_of_speech: VERB
+}
+token {
+  original: "Ивана"
+  lexem: "иван"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "Карпухина"
+  lexem: "карпухин"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "пошла"
+  lexem: "пойти"
+  part_of_speech: VERB
+}
+token {
+  original: "ресторан"
+  lexem: "ресторан"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "."
+  part_of_speech: SENTENCE_BOUND
+}
+token {
+  original: "\n"
+  part_of_speech: SENTENCE_BOUND
+}
+token {
+  original: "пути"
+  lexem: "путь"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: false
+  }
+}
+token {
+  original: "Иван"
+  lexem: "иван"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    type: NAME
+    is_animal: true
+  }
+}
+token {
+  original: "встретил"
+  lexem: "встречать"
+  part_of_speech: VERB
+}
+token {
+  original: "трудности"
+  lexem: "трудность"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: FEMALE
+    is_animal: false
+  }
+}
+token {
+  original: ". "
+  part_of_speech: SENTENCE_BOUND
+}
+token {
+  original: "Президент"
+  lexem: "президент"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "встретил"
+  lexem: "встречать"
+  part_of_speech: VERB
+}
+token {
+  original: "премьер-министра"
+  lexem: "премьер-министр"
+  part_of_speech: NOUN
+  noun_analysis {
+    gender: MALE
+    is_animal: true
+  }
+}
+token {
+  original: "."
+  part_of_speech: SENTENCE_BOUND
+}
+token {
+  original: "\n"
+  part_of_speech: SENTENCE_BOUND
+}

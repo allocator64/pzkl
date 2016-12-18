@@ -79,12 +79,20 @@ Tokens GetTokens(const std::vector<json11::Json> &words) {
     if (!line["text"].is_string()) {
       throw std::logic_error("text is not string");
     }
+    const string original = line["text"].string_value();
+    const char fs = !original.empty() ? original[0] : '\0';
+    if (fs == '.' || fs == '?' || fs == '!' || fs == '\n') {
+      auto token = tokens.add_token();
+      token->set_part_of_speech(Token::SENTENCE_BOUND);
+      token->set_original(original);
+      continue;
+    }
     const auto &analysis = line["analysis"];
     if (analysis.is_null()) {
       continue;
     }
     for (const auto &kv : analysis.array_items()) {
-      if (!kv["gr"].is_string()) {
+     if (!kv["gr"].is_string()) {
         continue;
       }
       if (!kv["lex"].is_string()) {

@@ -11,6 +11,16 @@ sentence {
         is_animal: true
       }
     }
+    token {
+      original: "Крылов"
+      lexem: "крылов"
+      part_of_speech: NOUN
+      noun_analysis {
+        gender: MALE
+        type: NAME
+        is_animal: true
+      }
+    }
   }
   span {
     type: VERB
@@ -42,6 +52,11 @@ sentence {
         is_animal: true
       }
     }
+  }
+}
+sentence {
+  span {
+    type: NAME
     token {
       original: "Екатерина"
       lexem: "екатерина"
@@ -99,6 +114,39 @@ sentence {
     token {
       original: "пошла"
       lexem: "пойти"
+      part_of_speech: VERB
+    }
+  }
+}
+sentence {
+  span {
+    type: NAME
+    token {
+      original: "Иван"
+      lexem: "иван"
+      part_of_speech: NOUN
+      noun_analysis {
+        gender: MALE
+        type: NAME
+        is_animal: true
+      }
+    }
+  }
+  span {
+    type: VERB
+    token {
+      original: "встретил"
+      lexem: "встречать"
+      part_of_speech: VERB
+    }
+  }
+}
+sentence {
+  span {
+    type: VERB
+    token {
+      original: "встретил"
+      lexem: "встречать"
       part_of_speech: VERB
     }
   }
