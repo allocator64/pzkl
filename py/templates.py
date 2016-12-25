@@ -78,6 +78,7 @@ def extract_sentence(sentence, template):
 		sequence_found = False
 
 		for index, first_word in enumerate(sentence):
+			#print("lookup in", [x['text'] for x in sentence[index:] ])
 			sequence_index = 0
 			occurrences = 0
 			gap = 0
@@ -95,7 +96,7 @@ def extract_sentence(sentence, template):
 						break
 
 				if passed:
-
+					#print("passed word", word['text'])
 					occurrences += 1
 
 					if sequence['list'][sequence_index]['amount'] == '*' or occurrences <= sequence['list'][sequence_index]['amount']:

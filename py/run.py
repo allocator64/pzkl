@@ -15,17 +15,20 @@ def get_argument(flag):
 	return None
 
 if any(map(lambda x: x in sys.argv,["-h","--help"])) or len(sys.argv) < 2:
-	print("Usage: {0} file_with_text.txt [-t module_with_templates] [-m path_to_mystem] [-e encoding]".format(sys.argv[0]))
+	print("Usage: {0} file_with_text.txt [-t module_with_templates] [-m path_to_mystem] [-e encoding] [-s]".format(sys.argv[0]))
 else:
 
 	templates_file = "config.py"
 	encoding = "utf-8"
 	path_to_mystem = "../mystem/mystem"
 	text_file = sys.argv[1] #"../texts/input.txt"
+	show_sentences = False
 
 	encoding = get_argument("-e") or encoding
 	path_to_mystem = get_argument("-m") or path_to_mystem
 	templates_file = get_argument("-t") or templates_file
+	if '-s' in sys.argv:
+		show_sentences = True
 
 	config = SourceFileLoader("config", templates_file).load_module()
 
@@ -34,9 +37,21 @@ else:
 
 
 	text = mystem.parse(mystem.run(text_file, path_to_mystem, encoding))
-	for pattern in templates.extract(text, config.templates_list):
-		print('== Extracted meeting ==')
-		for category, words in pattern.items():
-			print(category, ':', words)
+	for sentence in text:
+		has_any = False
+		for pattern in templates.extract([sentence], config.templates_list):
+
+			for category, words in pattern.items():
+				words = set(words)
+				if len(words) >= 1:
+					if not has_any:
+						has_any = True
+						if show_sentences:
+							print("\n")
+							print(' '.join([word['text'] for word in sentence]))
+							#for word in sentence:
+							#	print(word)
+						print('== Extracted meeting ==')
+					print(category, ':', set(words))
 
 
