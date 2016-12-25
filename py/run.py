@@ -1,157 +1,42 @@
+#!/usr/bin/env python3
+
 import templates
 import mystem
+import sys
+from importlib.machinery import SourceFileLoader
 
-templates_list = [
-	{
-		'sequences': [
-			{
-				"list": [
-					{
-						'template': 'в',
-						'amount': 1,
-						'no_cache': True,
-					},
-					{
-						'template': {
-							'one_of': [
-								['географическое название'],
-								['существительное', 'предложный'],
-								"Яндекс"
-							]
-						},
-						'amount': '*',
-						'max_gap': 1,
-						'use_lexem': True,
-					}
-				],
-				"category": "place",
-			},
-			{
-				"list": [
-					{
-						'template': 'c',
-						'amount': 1,
-						'no_cache': True,
-					},
-					{
-						'template': {
-							'one_of': [
-								["имя", "творительный"],
-								["фамилия", "творительный"],
-								["отчество", "творительный"],
-								["местоимение-существительное", "творительный", "одушевленное"],
-								['существительное', 'творительный', "одушевленное"],
-							]
-						},
-						'amount': '*',
-						'max_gap': 1,
-						'use_lexem': True,
-					}
-				],
-				"category": "actors",
-			},
-			{
-				"list": [
-					{
-						'template': 'встречать',
-						'amount': 1,
-						'no_cache': True,
-					},
-					{
-						'template': {
-							'one_of': [
-								["имя", "винительный"],
-								["фамилия", "винительный"],
-								["отчество", "винительный"],
-								["местоимение-существительное", "винительный", "одушевленное"],
-								['существительное', 'винительный', "одушевленное"],
-							]
-						},
-						'amount': '*',
-						'max_gap': 1,
-						'use_lexem': True,
-					}
-				],
-				"category": "actors",
-			},
-			{
-				"list": [
-					{
-						'template': {
-							'one_of': [
-								["имя", "именительный"],
-								["фамилия", "именительный"],
-								["отчество", "именительный"],
-								["местоимение-существительное", "именительный", "одушевленное"],
-								["существительное", "именительный", "одушевленное"],
-							]
-						},
-						'amount': '*',
-					},
-					{
-						'template': "встречать",
-						'amount': 1,
-						'no_cache': True,
-						'max_gap': 3,
-					}
-				],
-				"category": "actors",
-			},
-			{
-				"list": [
-					{
-						'template': 'пойти',
-						'amount': 1,
-						'no_cache': True
-					},
-					{
-						'template': {
-							'one_of': [
-								"в",
-								"к",
-								"на"
-							]
-						},
-						'amount': 1,
-						'max_gap': 3,
-						'no_cache': True
-					},
-					{
-						'template': {
-							'one_of': [
-								['географическое название'],
-								['существительное', 'винительный'],
-								"Яндекс"
-							]
-						},
-						'amount': '*',
-						'max_gap': 1,
-						'use_lexem': True,
-					}
-				],
-				"category": "place",
-			}
-		],
-		'basic_templates': [
-			{
-				"template": {
-					'one_of': [
-						"встречать",
-					]
-				},
-				"amount": '*',
-				"category": None,
-				"required": True
+def get_argument(flag):
 
-			}
-		]
-	}
-]
+	if flag in sys.argv:
+		idx = sys.argv.index(flag)
+		if len(sys.argv) > idx + 1:
+			return sys.argv[idx + 1]
 
-text = mystem.parse(mystem.run())
-for pattern in templates.extract(text, templates_list):
-	print('== Extracted meeting ==')
-	for category, words in pattern.items():
-		print(category, ':', words)
+	return None
+
+if any(map(lambda x: x in sys.argv,["-h","--help"])) or len(sys.argv) < 2:
+	print("Usage: {0} file_with_text.txt [-t module_with_templates] [-m path_to_mystem] [-e encoding]".format(sys.argv[0]))
+else:
+
+	templates_file = "config.py"
+	encoding = "utf-8"
+	path_to_mystem = "../mystem/mystem"
+	text_file = sys.argv[1] #"../texts/input.txt"
+
+	encoding = get_argument("-e") or encoding
+	path_to_mystem = get_argument("-m") or path_to_mystem
+	templates_file = get_argument("-t") or templates_file
+
+	config = SourceFileLoader("config", templates_file).load_module()
+
+	if config.templates_list is None:
+		raise Exception("Please specify correct template file")
+
+
+	text = mystem.parse(mystem.run(text_file, path_to_mystem, encoding))
+	for pattern in templates.extract(text, config.templates_list):
+		print('== Extracted meeting ==')
+		for category, words in pattern.items():
+			print(category, ':', words)
 
 
